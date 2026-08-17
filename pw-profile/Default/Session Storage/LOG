@@ -1,0 +1,27 @@
+2026/05/30-09:02:57.044 a86c Reusing MANIFEST C:\Users\Administrator\.openclaw\workspace\pw-profile\Default\Session Storage/MANIFEST-000001
+2026/05/30-09:02:57.045 a86c Recovering log #48
+2026/05/30-09:02:57.047 a86c Reusing old log C:\Users\Administrator\.openclaw\workspace\pw-profile\Default\Session Storage/000048.log 
+2026/05/30-09:03:50.294 8d14 Level-0 table #52: started
+2026/05/30-09:03:50.303 8d14 Level-0 table #52: 21600 bytes OK
+2026/05/30-09:03:50.306 8d14 Delete type=0 #48
+2026/05/30-09:12:17.648 8d14 Level-0 table #54: started
+2026/05/30-09:12:17.654 8d14 Level-0 table #54: 24891 bytes OK
+2026/05/30-09:12:17.657 8d14 Delete type=0 #51
+2026/05/30-09:12:17.658 8d14 Compacting 4@0 + 1@1 files
+2026/05/30-09:12:17.671 8d14 Generated table #55@0: 5585 keys, 209429 bytes
+2026/05/30-09:12:17.671 8d14 Compacted 4@0 + 1@1 files => 209429 bytes
+2026/05/30-09:12:17.672 8d14 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/30-09:12:17.673 8d14 Delete type=2 #45
+2026/05/30-09:12:17.673 8d14 Delete type=2 #47
+2026/05/30-09:12:17.673 8d14 Delete type=2 #49
+2026/05/30-09:12:17.673 8d14 Delete type=2 #52
+2026/05/30-09:12:17.673 8d14 Delete type=2 #54
+2026/05/30-09:19:50.935 8d14 Level-0 table #57: started
+2026/05/30-09:19:50.951 8d14 Level-0 table #57: 23970 bytes OK
+2026/05/30-09:19:50.953 8d14 Delete type=0 #53
+2026/05/30-09:27:23.266 8d14 Level-0 table #59: started
+2026/05/30-09:27:23.283 8d14 Level-0 table #59: 22753 bytes OK
+2026/05/30-09:27:23.284 8d14 Delete type=0 #56
+2026/05/30-09:34:43.319 8d14 Level-0 table #61: started
+2026/05/30-09:34:43.332 8d14 Level-0 table #61: 20367 bytes OK
+2026/05/30-09:34:43.334 8d14 Delete type=0 #58

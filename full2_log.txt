@@ -1,0 +1,355 @@
+20:14:37 === FULL2 ===
+20:14:44 Auth expired
+20:14:49 W
+20:15:41 C: 245px
+20:15:43 In
+20:15:43 Auth saved
+20:15:56 
+=== SCRIPTS ===
+20:15:56 --- SCRIPT [0] src= len=52 ---
+20:15:56 var logCenterAddress = "https://rxlog.chinahrt.com";
+20:15:56 --- END ---
+20:15:56 --- SCRIPT [1] src= len=16447 ---
+20:15:56 
+// set domain
+if (window.location.host.split("chinahrt.com.cn").length > 1) {
+    document.domain = "chinahrt.com.cn";
+} else if (window.location.host.split("chinahrt.com").length > 1) {
+    document.domain = "chinahrt.com";
+}
+    (function () {
+        document.getElementById('myInput').focus();
+        document.getElementById('myInput').style.display = 'none';
+         const formatTime = (time) => {
+              const h = parseInt(time / 3600)
+              const minute = parseInt(time / 60 % 60)
+              const second = Math.ceil(time % 60)
+              const hours = h < 10 ? '0' + h : h
+              const formatSecond = second > 59 ? 59 : second
+              return (hours > 0 ? hours + ':' : '') +  (minute < 10 ? '0' + minute : minute) + ':' + (formatSecond < 10 ? '0' + formatSecond : formatSecond)
+        };
+        // 获取到参数
+        const questionList = eval();
+        const questionstimeSet = eval();
+        // 基础参数
+        const ifShowPauseAd =false;
+        const ifCanDrag =false;
+        const playbackRate = false
+        const businessId = '{dataMap.business_id}';
+        //回调事件时机相关
+        const seconds = ''.split(",");
+        // 上次播放到的位置
+        const lastPlayTime = 364.0 <= 0 ? 0 : 364.0;
+        // duration
+        const ifPauseBlur =false;
+        const showProgressBar =1;
+        const defaultClarity = "283001";
+        const ifRecord = true;
+        const sectionId = "a5b20c83fded44cb96c3e31ec409f8a01-1";
+        const adResourceAddress = "";
+        const adLinkAddress = "";
+        const proxyUrl = "https://gp.chinahrt.com/index.html#/v_proxy";
+        const domain = "https://courselook.hst360.com/";
+        const signId = "154#af7e9b8dce964ebdab00c0647155de76#ffc5c0d4145943feba1201ea28ca8f04";
+        const videoId = "4147ae61-486f-44f3-871e-46eb4978d4b8";
+        const autoPlay = 1;
+        const allowPlayRate = 0;
+        const recordId = "nr4OtICnQZkfo6RhenU4x";
+        const studyCode = "4cMOQkAH1QDSatOUDvB61";
+        const limitPlayTime = parseInt('' || -1);
+        const limitPlayArray = '';
+        const autoNext = '';
+        const isLast = "0";
+        if (ifRecord && '1' === '1') {
+            $(window).bind('beforeunload', function (e) {
+                if(window.sendLog)
+                    sendLog();
+            });
+        } else {
+            $(window).bind('beforeunload', function (e) {
+                if(window.sendLog)
+                    sendLog();
+            });
+        }
+        const nextPlayer = () => {
+            console.log('自动播放下一章节');
+            dp.pause();
+        }
+        const judgeCallback = (number) => {
+            if (typeof(number) != "undefined" && number != null && number != '') {
+                if (number > 0 && seconds && seconds.length > 0) {
+                    let cur_sss = parseInt(number);
+                    for (var i = 0; i < seconds.length; i++) {
+                        //秒数=当前秒数 & 最大时间-当前时间小于1秒钟
+                        if (cur_sss == seconds[i] ) {
+                          console.log('准备触发'+seconds[i]+'事件');
+                          dp.pause();
+                          dp.fullScreen.cancel('browser');
+                          seconds.splice(i, 1);
+                          if(proxyUrl){
+                             let proxyHtml = document.createElement('iframe');
+                              proxyHtml.setAttribute('src', proxyUrl + '#' + cur_sss);
+                              proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                              document.body.appendChild(proxyHtml);
+                          }
+                          window.parent.postMessage("valid:"+cur_sss , '*');
+                        }
+                    }
+                }
+            }
+        }
+        // 告诉上一个，不是全屏了
+         if (proxyUrl) {
+          let proxyHtml = document.createElement('iframe');
+          proxyHtml.setAttribute('src', proxyUrl + '#fullscreen_cancel');
+          proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+          document.body.appendChild(proxyHtml);
+        }
+        window.parent.postMessage("fullscreen_canceled" , '*');
+
+        const keypointList = eval([{"name":"（一）数字化转型是大势所趋","timeStr":"02:48","time":168},{"name":"（二）数字化生存","timeStr":"03:51","time":231},{"name":"（三）数字化转型的定义","timeStr":"04:53","time":293},{"name":"（四）数字经济","timeStr":"05:36","time":336},{"name":"（五）数字化转型比较公认的说法","timeStr":"06:30","time":390}]);
+        //本次实际观看视频所花时间
+        let actualLearnTime = 0;
+        const enterTime = Date.now();
+        // 初始化播放器
+        let dp;
+        let cur_time = 0;
+        let first_play = true;
+        let first_play_seek = false;
+        let is_ended = false;
+        const loadPlay = function (opts){
+            if(dp){
+                dp.destroy();
+            }
+            let isLimitPlay = false;
+            if(typeof (limitPlayArray) != 'undefined' && limitPlayArray && limitPlayArray.length>0){
+               //判断是否在学习时间内
+               let nowTime = new Date().getTime();
+               for(let i=0;i<limitPlayArray.length;i++){
+                   let d=limitPlayArray[i];
+                   let sTime=new Date(d.startTime).getTime();
+                   let eTime=new Date(d.endTime).getTime();
+                   if(sTime<nowTime && nowTime<eTime){
+                       opts.video.quality = [];
+                       isLimitPlay = true;
+                   }
+               }
+            }
+             // 视频的当前进度
+            cur_time = opts.currentTime ? opts.currentTime : 0;
+
+            dp = new DPlayer({
+                currentTime: cur_time,
+                container: document.getElementById('chinahrtpayler'),
+                video: opts.video,
+                autoplay: autoPlay==1 ? true : false,
+                live:false,
+                volume: 0.7,
+                theme:'#27292B',
+                playbackSpeed: allowPlayRate === 0 ? [1] : [1, 1.25, 1.5],
+                highlight: opts.highlight, 
+                preload: 'auto',
+                canSeek: ifCanDrag,
+                pauseOnBlur: ifPauseBlur,
+                pptx: opts.pptx,
+                nextTips: autoNext != '',
+                questions: questionList,
+                antiCloseTime: '0',
+                take: {
+                    token: 'cf717ac1474f5429b509f05bd0f7c0cb'
+                }
+            });
+            if(isLimitPlay){
+                dp.notice("当前为禁止学习时间段，无法观看！");
+            }
+            dp.on('loadeddata', function () {
+                if(cur_time > 0 && first_play){
+                    dp.notice('上次观看到 ' + parseInt(cur_time) + ' 秒', 3000);
+                    first_play = false;
+                    first_play_seek = true;
+                }
+           });
+          let first_play_seek_2 = true;
+          function startPlay() {
+             if(cur_time > 0){
+                if(!first_play_seek){
+                    setTimeout(function(){
+                        startPlay();
+                    },500)
+                    return;
+                }
+              dp.notice('上次观看到 ' + parseInt(cur_time) + ' 秒，即将继续播放', 3000);
+              setTimeout(function(){
+                  if(parseInt(dp.video.duration) - parseInt(cur_time) > 0 && parseInt(cur_time) > 5 ){
+                    dp.seek(parseInt(cur_time) - 3);
+                  }
+              },500)
+             }
+          }
+          dp.on('play', function () {
+            if(first_play_seek_2){
+                startPlay();
+            }
+            first_play_seek_2 = false;
+            window.parent.postMessage("playing", '*');
+          });
+          dp.on('pause', function () {
+            window.parent.postMessage("paused", '*');
+          });
+          dp.on('seeked', function () {
+          });
+          dp.on('fullscreen', function () {
+            if (proxyUrl) {
+                 let proxyHtml = document.createElement('iframe');
+                 proxyHtml.setAttribute('src', proxyUrl + '#fullscreen');
+                 proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                 document.body.appendChild(proxyHtml);
+             }
+             window.parent.postMessage("fullscreened" , '*');
+          });
+          dp.on('fullscreen_cancel', function () {
+            if (proxyUrl) {
+                let proxyHtml = document.createElement('iframe');
+                proxyHtml.setAttribute('src', proxyUrl + '#fullscreen_cancel');
+                proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                document.body.appendChild(proxyHtml);
+            }
+            window.parent.postMessage("fullscreen_canceled" , '*');
+          });
+          dp.on('webfullscreen', function () {
+              if (proxyUrl) {
+                   let proxyHtml = document.createElement('iframe');
+                   proxyHtml.setAttribute('src', proxyUrl + '#fullscreen');
+                   proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                   document.body.appendChild(proxyHtml);
+               }
+               window.parent.postMessage("fullscreened" , '*');
+            });
+            dp.on('webfullscreen_cancel', function () {
+              if (proxyUrl) {
+                  let proxyHtml = document.createElement('iframe');
+                  proxyHtml.setAttribute('src', proxyUrl + '#fullscreen_cancel');
+                  proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                  document.body.appendChild(proxyHtml);
+              }
+              window.parent.postMessage("fullscreen_canceled" , '*');
+            });
+          dp.on('timeupdate', function () {
+             if(dp.video.currentTime > cur_time){
+                 if (limitPlayTime != -1 && dp.video.currentTime >= limitPlayTime) {
+                     layer.msg("最大观看时间为"+limitPlayTime+"秒！");
+                     dp.seek(0);
+                     dp.pause();
+                     if (proxyUrl != '') {
+                         let proxyHtml = document.createElement('iframe');
+                         proxyHtml.setAttribute('src', proxyUrl + '#previewEnd');
+                         proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                         document.body.appendChild(proxyHtml);
+                     }
+                 }
+                 let curTodayTime = dp.video.currentTime - 364.0;
+                 if(curTodayTime >= 999999999){
+                    dp.notice('已达到当日观看课时上限，请明天再学', 5000);
+                    dp.pause();
+                    dp.seek(0);
+                    dp.destroy();
+                    location.href = 'https://videoadmin.chinahrt.com/error.html?m=' + encodeURIComponent('已达到当日观看课时上限，请明天再学');
+                 }
+                cur_time = parseInt(dp.video.currentTime);
+             }
+             judgeCallback(parseInt(dp.video.currentTime));
+          });
+
+          dp.on('ended', function () {
+               setTimeout(()=>{
+                    is_ended = true;
+                    if (proxyUrl) {
+                        let proxyHtml = document.createElement('iframe');
+                        proxyHtml.setAttribute('src', proxyUrl + '#end');
+                        proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                        document.body.appendChild(proxyHtml);
+                    }
+                    window.parent.postMessage("ended" , '*');
+               },1000);
+               if(isLast == '1'){
+                     if (proxyUrl) {
+                         let proxyHtml = document.createElement('iframe');
+                         proxyHtml.setAttribute('src', proxyUrl + '#last');
+                         proxyHtml.setAttribute('style', 'height:1px;width:1px;display:none;');
+                         document.body.appendChild(proxyHtml);
+                     }
+                     window.parent.postMessage("final" , '*');
+               }
+          });
+        };
+        const quality = [];
+        
+                            quality.push({url:'https://courselook.hst360.com/u/u/courseyun/gp5/transcodeReady/202411/4147ae61-486f-44f3-871e-46eb4978d4b8/283001-mp4.mp4',type: 'auto', size:'38851994',name: '流畅'})
+                        
+            const pptx = [{"time":0,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8e361voq8p4r4i1m7d1ipr1h.JPG"},{"time":23,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8e511gkoh5l1h621nkj8l81m.JPG"},{"time":101,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8e6p1ajg1dt71js8ccentb1r.JPG"},{"time":166,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8e8lm3i4s6kla1vie16hr20.JPG"},{"time":168,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8eb01l0j14sq15o81r211mf625.JPG"},{"time":231,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8ecp7ss1tv6gcc9enin2a.JPG"},{"time":293,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8eei1l98l6s1bgs11s1ccp2f.JPG"},{"time":336,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8egb19r0phj1keimri1nkn2k.JPG"},{"time":390,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8ei21o1oq0l1g9e1c8c18vi2p.JPG"},{"time":488,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8ek613eaqqrclmo7h1vfh2u.JPG"},{"time":553,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8elv1fr6hle102q1kcgur833.JPG"},{"time":615,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8enretkfrbmn18rhma538.JPG"},{"time":650,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8epk1tvk2s4110tg1p14mm3d.JPG"},{"time":697,"url":"https://courselook.hst360.com/u/courseyun/gp5/upload/gpcourse1/image/20235/wu_1h1lu8eri2ac1mk8sq1r7a1jcp3i.JPG"}];
+        
+
+        let highlightList = [];
+        if(keypointList && keypointList.length > 0){
+            highlightList = keypointList.map(x => {
+                return {time:x.time, text: formatTime(x.time) + ' ' + x.name}
+            })
+        }
+        for (let i = 0; i < quality.length; i++) {
+            if(window.location.protocol === 'https:' && quality[i].url.startsWith('http://')){
+               quality[i].url = quality[i].url.replaceAll("http:", "https:");
+            }
+        }
+        loadPlay(
+            {
+                currentTime: lastPlayTime, // 视频上次播放到的时间
+                video: {
+                    pic: 'https://look.yun.chinahrt.com/u/tips/1280.webp',
+                    quality: quality,
+                    defaultQuality: 0, // 默认清晰度
+                },
+                highlight: highlightList,
+                pptx: pptx
+            }
+        );
+        // 接收父页面数据
+        const receiveMessage = function (event){
+            // 限制域名，防止作弊
+            // if (event.origin !== 'http://localhost:8000') return;
+            if (event.data == 'play') {
+                dp.play();
+            } else if (event.data == 'pause') {
+                dp.pause();
+            } else if (event.data == 'getMaxPlayTime') {
+                window.parent.postMessage("getMaxPlayTime:" + cur_time, '*');
+            } else if (event.data == 'getValidStudyTime') {
+                //前提是记录进度，如果学习已学完的课程，这个值不记录
+                let time = 0;
+                if (ifRecord) {
+                    time = cur_time -364.0;
+                }
+                window.parent.postMessage("getValidStudyTime:" + time, '*');
+            }else if (event.data == 'getCurrentTime') {
+                if(is_ended)
+                    return;
+                window.parent.postMessage("getCurrentTime:" + dp.video.currentTime, '*');
+            }else if (event.data == 'cancel_fullscreen') {
+                // 取消全屏
+                dp.fullScreen.cancel('browser')
+                // dp.fullScreen.cancel('web')
+            }else if (event.data == 'start_fullscreen') {
+                 // 进入全屏
+                 dp.fullScreen.request('browser')
+             }
+        };
+        window.addEventListener('message', receiveMessage, false);
+        try {
+            if(initLog)
+                initLog();
+        } catch(err) { }
+        
+    })();
+
+20:15:56 --- END ---
+20:15:56 
+External scripts: ["https://look.yun.chinahrt.com/u/sc/chplayer1.min.js?v=20260302","/js/log/businesslog.js?v=1233"]

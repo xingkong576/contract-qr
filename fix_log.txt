@@ -1,0 +1,43 @@
+[12:43:28] FIX
+[12:43:34] W
+[12:44:49] C: m84ng
+[12:45:12] C1: 信息化与工业现代化
+[12:45:18] ALL A LINKS:
+[12:45:18]   0: {"txt":"退出","cls":"","href":"javascript:;"}
+[12:45:18]   1: {"txt":"","cls":"rwm el-popover__reference","href":"javascript:;"}
+[12:45:18]   2: {"txt":"我的培训","cls":"f12","href":"#/v_trainplan_list"}
+[12:45:18]   3: {"txt":"选课列表","cls":"f12","href":"javascript:;"}
+[12:45:18]   4: {"txt":"课程详情","cls":"f12 blue","href":"javascript:;"}
+[12:45:18]   5: {"txt":"课程详情","cls":"","href":"javascript:;"}
+[12:45:18]   6: {"txt":"课程目录","cls":"","href":"javascript:;"}
+[12:45:18]   7: {"txt":"课程评价","cls":"","href":"javascript:;"}
+[12:45:18]   8: {"txt":"配套资料","cls":"","href":"javascript:;"}
+[12:45:18]   9: {"txt":"","cls":"iconfade toggle fr rotate","href":"javascript:;"}
+[12:45:18]   10: {"txt":"一、信息时代的工业化及市场竞争新特点(00:13:01)","cls":"titlecolor text","href":"javascript:;"}
+[12:45:18]   11: {"txt":"已学完(00:13:01)","cls":"button fr mt10 border-public tc f12 titlecolor","href":null}
+[12:45:18]   12: {"txt":"二、制造业（企业）信息化(00:33:33)","cls":"titlecolor text","href":"javascript:;"}
+[12:45:18]   13: {"txt":"学习中(00:27:27)","cls":"button fr mt10 border-public tc f12 titlecolor","href":null}
+[12:45:18]   14: {"txt":"三、以信息化带动工业化(00:23:53)","cls":"titlecolor text","href":"javascript:;"}
+[12:45:18]   15: {"txt":"学习中(00:00:00)","cls":"button fr mt10 border-public tc f12 titlecolor","href":null}
+[12:45:18]   16: {"txt":"四、企业竞争力问题---复杂系统求解(00:16:16)","cls":"titlecolor text","href":"javascript:;"}
+[12:45:18]   17: {"txt":"学习中(00:00:00)","cls":"button fr mt10 border-public tc f12 titlecolor","href":null}
+[12:45:18]   18: {"txt":"五、我国制造业的跨越发展(00:12:20)","cls":"titlecolor text","href":"javascript:;"}
+[12:45:18]   19: {"txt":"学习中(00:00:00)","cls":"button fr mt10 border-public tc f12 titlecolor","href":null}
+[12:45:18]   20: {"txt":"六、结论(00:05:48)","cls":"titlecolor text","href":"javascript:;"}
+[12:45:18]   21: {"txt":"学习中(00:00:00)","cls":"button fr mt10 border-public tc f12 titlecolor","href":null}
+[12:45:18]   22: {"txt":"全部","cls":"active","href":null}
+[12:45:18]   23: {"txt":"好评","cls":"","href":null}
+[12:45:18]   24: {"txt":"中评","cls":"","href":null}
+[12:45:18] BUTTONS:
+[12:45:18]   0: {"txt":"","cls":"el-dialog__headerbtn"}
+[12:45:18]   1: {"txt":"","cls":"el-dialog__headerbtn"}
+[12:45:18]   2: {"txt":"","cls":"el-dialog__headerbtn"}
+[12:45:18]   3: {"txt":"","cls":"el-dialog__headerbtn"}
+[12:45:18]   4: {"txt":"移除","cls":"comment white f16 plainbj"}
+[12:45:18]   5: {"txt":"继续学习","cls":"comment white f16 plainStudy"}
+[12:45:18]   6: {"txt":"","cls":"el-dialog__headerbtn"}
+[12:45:18] HASH: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=f11815ed-f859-4663-a2f1-2fb351d249eb
+[12:45:18] MAIN HTML: <div data-v-53c136de="" class="crumbs-title" style="padding-left: 0px;"><p data-v-53c136de="" class="mt20 mb20"><a data-v-53c136de="" href="#/v_trainplan_list" class="f12">我的培训</a> <a data-v-53c136de="" href="javascript:;" class="f12">选课列表</a> <a data-v-53c136de="" href="javascript:;" class="f12 blue" style="color: rgb(45, 140, 240);">课程详情</a></p></div> <div data-v-53c136de="" class="details-shopping m0 clearfix"><div data-v-53c136de="" class="shopping-left fl pr"><p data-v-53c136de="" class="tc"><img data-v-53c136de="" src="https://look.yun.chinahrt.com//course/pic/little/d3r1PaD_19152651800.jpg" alt=""></p></div> <div data-v-53c136de="" class="shopping-right fl pb15" style="width: 560px;"><h2 data-v-53c136de="">信息化与工业现代化</h2> <div data-v-53c136de="" class="shoping-menu-list"><div data-v-53c136de="" class="shopping-price cb pb15"><div data-v-53c136de="" class="price-number"><p data-v-53c136de=""><span data-v-53c136de="" class="clearfix f14">课程价格：</span> <span data-v-53c136de="" class="f16 clearfix ml20 bignum numcolor pt5"><span data-v-53c136de="" class="f14 numcolor">¥</span>
+											6.0
+										</span></p></div></div> <div data-v-53c136de="" class="clearfix pb10"><span data-v-53c136de="" class="f14 rateText fl">评价星级：</span> <div data-v-53c136de="" role="slider" aria-valuenow="0" aria-valuetext="0" aria-valuemin="0" aria-valuemax="5" tabindex="0" class="el-rate elRate"><span class="el-rate__item" style="cursor: auto;"><i class="el-rate__icon el-icon-star-on" style="color: rgb(239, 242, 247);"><!----></i></span><span class="el-rate__item" style="cursor: auto;"><i class="el-rate__icon el-icon-star-on" style="color: rgb(239, 242, 247);"><!----></i></span><span class="el-rate__item" style="cursor: auto;"><i class="el-rate__icon el-icon-star-on" style="color: rgb(239, 242, 247);"><!----></i></span><span class="el-rate__item" style="cursor: auto;"><i class="el-rate__icon el-icon-star-on" style="color: rgb(239, 242, 247);"><!----></i></span><span class="el-rate__ite
+[12:45:18] DONE

@@ -1,0 +1,21 @@
+{
+  "trades": [
+    {
+      "id": 1781611275171,
+      "code": "000636",
+      "name": "风华高科",
+      "buyPrice": 71,
+      "shares": 100,
+      "buyDate": "2026-06-16",
+      "buyTime": "2026/6/16 20:01:15",
+      "status": "holding",
+      "sellPrice": null,
+      "sellDate": null,
+      "profitPct": 2.82,
+      "profitAmt": 200,
+      "currentPrice": 73,
+      "note": "6月17日 09:50 实时行情更新"
+    }
+  ],
+  "version": "2.1"
+}

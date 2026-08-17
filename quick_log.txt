@@ -1,0 +1,10 @@
+[13:51:59] === QUICK ===
+[13:52:04] W
+[13:52:44] C: cn26n
+[13:52:46] In
+[13:53:05] Popup opened
+[13:53:05] sign info: {"trainplanId":"af7e9b8dce964ebdab00c0647155de76","platformId":"154","courseId":"f11815ed-f859-4663-a2f1-2fb351d249eb"}
+[13:53:05] URL: https://gp.hst360.com/index.html#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=f11815ed-f859-4663-a2f1-2fb351d249eb
+[13:53:05] localStorage: {"UDESK_on_go_chat":"","UDESK_on_force_chat":"","introDoneUrl":"/v_guide_selected_course?multipage3=true","debug":"undefined","Hm_lvt_314ca85a35846e1726e5bccc40a0fe6d":"1811569979922|1780033924"}
+[13:53:05] User info: {"userInfo":"undef","signId":"undef","_user":"undef","cookie":"Hm_lvt_314ca85a35846e1726e5bccc40a0fe6d=1780033924; Hm_lpvt_314ca85a35846e1726e5bccc40a0fe6d=1780033980"}
+[13:53:08] === DONE ===

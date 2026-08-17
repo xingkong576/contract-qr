@@ -1,0 +1,77 @@
+[11:05:03] === F4 ===
+[11:05:11] CAPTCHA
+[11:07:09] C: 87fdb
+[11:07:35] COURSES: 12
+[11:07:35] 
+=== 1/12: 信息化与工业现代化 (12%) ===
+[11:07:41] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=f11815ed-f859-4663-a2f1-2fb351d249eb","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  信息化与工业现代化 课程价格"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  信息化与工业现代化 课程价格"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"信息化与工业现代化 课程价格： ¥\n\t\t\t\t\t\t\t\t\t\t\t6"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"信息化与工业现代化 课程价格： ¥\n\t\t\t\t\t\t\t\t\t\t\t6"}]}
+[11:07:49] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=f11815ed-f859-4663-a2f1-2fb351d249eb
+[11:07:49] NO VIDEO
+[11:07:49] FAILED
+[11:08:01] 
+=== 2/12: 企业数字化转型就是持续深入推进智能制造 (0%) ===
+[11:08:07] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=a5b20c83fded44cb96c3e31ec409f8a0","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  企业数字化转型就是持续深入推"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  企业数字化转型就是持续深入推"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"企业数字化转型就是持续深入推进智能制造 课程价格： ¥\n\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"企业数字化转型就是持续深入推进智能制造 课程价格： ¥\n\t\t"}]}
+[11:08:15] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=a5b20c83fded44cb96c3e31ec409f8a0
+[11:08:15] NO VIDEO
+[11:08:15] FAILED
+[11:08:30] 
+=== 3/12: AI办公实用技能 (0%) ===
+[11:08:36] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=AUOO5lkPYyZgUfTNzdB1s","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  AI办公实用技能 课程价格："},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  AI办公实用技能 课程价格："},{"tag":"DIV","cls":"details-shopping m0 ","txt":"AI办公实用技能 课程价格： ¥\n\t\t\t\t\t\t\t\t\t\t\t21"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"AI办公实用技能 课程价格： ¥\n\t\t\t\t\t\t\t\t\t\t\t21"}]}
+[11:08:44] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=AUOO5lkPYyZgUfTNzdB1s
+[11:08:44] NO VIDEO
+[11:08:44] FAILED
+[11:08:55] 
+=== 4/12: 数字化办公基础——数字化办公概述 (0%) ===
+[11:09:01] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=B1h4oVhujarMckjFVzusA","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  数字化办公基础——数字化办公"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  数字化办公基础——数字化办公"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"数字化办公基础——数字化办公概述 课程价格： ¥\n\t\t\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"数字化办公基础——数字化办公概述 课程价格： ¥\n\t\t\t\t\t"}]}
+[11:09:09] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=B1h4oVhujarMckjFVzusA
+[11:09:09] NO VIDEO
+[11:09:09] FAILED
+[11:09:26] 
+=== 5/12: 如何利用ChatGPT提高工作效率 (0%) ===
+[11:09:32] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=RdbapCuf9D1dnQITmrAe8","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  如何利用ChatGPT提高工"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  如何利用ChatGPT提高工"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"如何利用ChatGPT提高工作效率 课程价格： ¥\n\t\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"如何利用ChatGPT提高工作效率 课程价格： ¥\n\t\t\t\t"}]}
+[11:09:40] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=RdbapCuf9D1dnQITmrAe8
+[11:09:40] NO VIDEO
+[11:09:40] FAILED
+[11:09:51] 
+=== 6/12: WPS AI助力职场文字办公更高效 (0%) ===
+[11:09:57] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=o1MiPsmqXMOX14VpavnmD","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  WPS AI助力职场文字办公"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  WPS AI助力职场文字办公"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"WPS AI助力职场文字办公更高效 课程价格： ¥\n\t\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"WPS AI助力职场文字办公更高效 课程价格： ¥\n\t\t\t\t"}]}
+[11:10:05] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=o1MiPsmqXMOX14VpavnmD
+[11:10:05] NO VIDEO
+[11:10:05] FAILED
+[11:10:22] 
+=== 7/12: WPS AI助力打造引人瞩目的PPT (0%) ===
+[11:10:28] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=FJ2mKK3f76dh3jXcCDdS6","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  WPS AI助力打造引人瞩目"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  WPS AI助力打造引人瞩目"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"WPS AI助力打造引人瞩目的PPT 课程价格： ¥\n\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"WPS AI助力打造引人瞩目的PPT 课程价格： ¥\n\t\t\t"}]}
+[11:10:36] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=FJ2mKK3f76dh3jXcCDdS6
+[11:10:36] NO VIDEO
+[11:10:36] FAILED
+[11:10:47] 
+=== 8/12: WPS AI助力办公数据处理与分析 (0%) ===
+[11:10:53] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=de5VoLjABjLj87ZpE7m0F","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  WPS AI助力办公数据处理"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  WPS AI助力办公数据处理"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"WPS AI助力办公数据处理与分析 课程价格： ¥\n\t\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"WPS AI助力办公数据处理与分析 课程价格： ¥\n\t\t\t\t"}]}
+[11:11:01] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=de5VoLjABjLj87ZpE7m0F
+[11:11:01] NO VIDEO
+[11:11:01] FAILED
+[11:11:17] 
+=== 9/12: AI时代如何打造数字化人才 (0%) ===
+[11:11:23] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=HCvLXRL3LlMB5vMba2E2O","clickables":[{"tag":"DIV","cls":"","txt":"客服热线 customer hotline  退出     "},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  AI时代如何打造数字化人才 "},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  AI时代如何打造数字化人才 "},{"tag":"DIV","cls":"details-shopping m0 ","txt":"AI时代如何打造数字化人才 课程价格： ¥\n\t\t\t\t\t\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"AI时代如何打造数字化人才 课程价格： ¥\n\t\t\t\t\t\t\t\t"}]}
+[11:11:31] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=HCvLXRL3LlMB5vMba2E2O
+[11:11:31] NO VIDEO
+[11:11:31] FAILED
+[11:11:44] 
+=== 10/12: WPS-AI在表格中的应用 (0%) ===
+[11:11:50] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=XFxA50AZ9Um66jAJknCfi","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  WPS-AI在表格中的应用 "},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  WPS-AI在表格中的应用 "},{"tag":"DIV","cls":"details-shopping m0 ","txt":"WPS-AI在表格中的应用 课程价格： ¥\n\t\t\t\t\t\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"WPS-AI在表格中的应用 课程价格： ¥\n\t\t\t\t\t\t\t\t"}]}
+[11:11:58] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=XFxA50AZ9Um66jAJknCfi
+[11:11:58] NO VIDEO
+[11:11:58] FAILED
+[11:12:12] 
+=== 11/12: WPS-AI在文字中的应用 (0%) ===
+[11:12:18] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=uuFLB9IoyOzioDqPsJdEH","clickables":[{"tag":"DIV","cls":"","txt":"客服热线 customer hotline  退出     "},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  WPS-AI在文字中的应用 "},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  WPS-AI在文字中的应用 "},{"tag":"DIV","cls":"details-shopping m0 ","txt":"WPS-AI在文字中的应用 课程价格： ¥\n\t\t\t\t\t\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"WPS-AI在文字中的应用 课程价格： ¥\n\t\t\t\t\t\t\t\t"}]}
+[11:12:26] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=uuFLB9IoyOzioDqPsJdEH
+[11:12:26] NO VIDEO
+[11:12:26] FAILED
+[11:12:38] 
+=== 12/12: DeepSeek高效办公实战指南课程 (0%) ===
+[11:12:44] DETAILS: {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=kAzELXIb6yZa3XrXTHGUZ","clickables":[{"tag":"DIV","cls":"","txt":"平凉专技人员继续教育培训平台   客服热线 customer"},{"tag":"DIV","cls":"details-bg cb","txt":"我的培训 选课列表 课程详情  DeepSeek高效办公实战"},{"tag":"DIV","cls":"details-main m0 pr o","txt":"我的培训 选课列表 课程详情  DeepSeek高效办公实战"},{"tag":"DIV","cls":"details-shopping m0 ","txt":"DeepSeek高效办公实战指南课程 课程价格： ¥\n\t\t\t"},{"tag":"DIV","cls":"shopping-right fl pb","txt":"DeepSeek高效办公实战指南课程 课程价格： ¥\n\t\t\t"}]}
+[11:12:52] AFTER CLICK: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=kAzELXIb6yZa3XrXTHGUZ
+[11:12:52] NO VIDEO
+[11:12:52] FAILED
+[11:13:08] ALL DONE

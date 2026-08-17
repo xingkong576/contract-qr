@@ -1,0 +1,17 @@
+[12:36:41] Z
+[12:36:47] W
+[12:37:55] C: 5ea5c
+[12:37:57] RESP:https://gp.hst360.com/gp6/lms/stu/user/loginReceiveLearnCardAuto?t=58d5ba88-f755 | {"code":"0","msg":"成功","data":[],"success":true}
+[12:37:57] RESP:https://gp.hst360.com/gp6/lms/stu/trainplan/trainplanClassifys?t=e70f8021-815a-4 | {"code":"0","msg":"成功","data":[],"success":true}
+[12:38:14] RESP:https://gp.hst360.com/gp6/lms/stu/trainplanCourseHandle/selectedCourseNoPassExam | {"code":"0","msg":"成功","data":0,"success":true}
+[12:38:22] C1: 信息化与工业现代化
+[12:38:22] RESP:https://gp.hst360.com/gp6/lms/stu/evaluate/courseEvaluateList?platformId=154&cou | {"code":"0","msg":"成功","data":{"totalCount":0,"data":[],"amount":null,"showType":0,"showExamImgUrl":false},"success":true}
+[12:38:22] RESP:https://gp.hst360.com/gp6/lms/stu/user/loginReceiveLearnCardAuto?t=ae9d1b77-92e3 | {"code":"0","msg":"成功","data":[],"success":true}
+[12:38:28] CHAPTERS: [{"txt":"一、信息时代的工业化及市场竞争新特点(00:13:01)","href":"javascript:;"},{"txt":"二、制造业（企业）信息化(00:33:33)","href":"javascript:;"},{"txt":"三、以信息化带动工业化(00:23:53)","href":"javascript:;"},{"txt":"四、企业竞争力问题---复杂系统求解(00:16:16)","href":"javascript:;"},{"txt":"五、我国制造业的跨越发展(00:12:20)","href":"javascript:;"},{"txt":"六、结论(00:05:48)","href":"javascript:;"}]
+[12:38:28] CLICK CHAPTER 0...
+[12:38:38] HASH: #/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=f11815ed-f859-4663-a2f1-2fb351d249eb
+[12:38:38] FRAMES: [{"src":"","id":"udesk_iframe"}]
+[12:38:38] VIDEOS: []
+[12:38:38] NEW: []
+[12:38:38] BTNS: [{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"移除","cls":"comment white f16 plainbj"},{"txt":"继续学习","cls":"comment white f16 plainStudy"},{"txt":"","cls":"el-dialog__headerbtn"}]
+[12:38:41] DONE

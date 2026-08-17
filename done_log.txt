@@ -1,0 +1,343 @@
+23:19:45 === DONE v16 (natural ended) ===
+23:19:55 W
+23:20:58 C: m6n8p
+23:21:00 In
+23:21:16 Courses: 12
+23:21:16 
+=== (1/12) 信息化与工业现代化 (58%) ===
+23:21:21 Chaps: 2
+23:21:23 >> Chap[3]
+23:22:04 Saves seen: 1
+23:22:14 Saves total: 2
+23:22:17 >> Chap[4]
+23:22:57 Saves seen: 1
+23:23:07 Saves total: 2
+23:23:14 
+=== (2/12) 企业数字化转型就是持续深入推进智能制造 (0%) ===
+23:23:19 Chaps: 6
+23:23:21 >> Chap[0]
+23:23:59 Saves seen: 2
+23:24:09 Saves total: 3
+23:24:13 >> Chap[1]
+23:24:50 Saves seen: 2
+23:25:00 Saves total: 4
+23:25:03 >> Chap[2]
+23:25:35 Saves seen: 2
+23:25:45 Saves total: 4
+23:25:49 >> Chap[3]
+23:26:21 Saves seen: 2
+23:26:31 Saves total: 4
+23:26:36 >> Chap[4]
+23:26:55 Saves seen: 2
+23:27:05 Saves total: 4
+23:27:08 >> Chap[5]
+23:27:21 Saves seen: 2
+23:27:31 Saves total: 4
+23:27:38 
+=== (3/12) AI办公实用技能 (0%) ===
+23:27:43 Chaps: 10
+23:27:46 >> Chap[1]
+23:28:18 Saves seen: 2
+23:28:28 Saves total: 4
+23:28:32 >> Chap[2]
+23:29:04 Saves seen: 2
+23:29:14 Saves total: 4
+23:29:17 >> Chap[3]
+23:29:51 Saves seen: 2
+23:30:01 Saves total: 4
+23:30:04 >> Chap[4]
+23:30:37 Saves seen: 2
+23:30:47 Saves total: 4
+23:30:51 >> Chap[5]
+23:31:23 Saves seen: 2
+23:31:33 Saves total: 4
+23:31:36 >> Chap[6]
+23:32:09 Saves seen: 2
+23:32:19 Saves total: 4
+23:32:23 >> Chap[7]
+23:32:56 Saves seen: 2
+23:33:06 Saves total: 4
+23:33:09 >> Chap[8]
+23:33:41 Saves seen: 2
+23:33:51 Saves total: 4
+23:33:55 >> Chap[9]
+23:34:27 Saves seen: 2
+23:34:37 Saves total: 4
+23:34:40 >> Chap[10]
+23:35:13 Saves seen: 2
+23:35:23 Saves total: 4
+23:35:31 
+=== (4/12) 数字化办公基础——数字化办公概述 (0%) ===
+23:35:36 Chaps: 6
+23:35:37 >> Chap[0]
+23:36:09 Saves seen: 2
+23:36:19 Saves total: 4
+23:36:23 >> Chap[1]
+23:36:55 Saves seen: 2
+23:37:05 Saves total: 4
+23:37:08 >> Chap[2]
+23:37:40 Saves seen: 2
+23:37:50 Saves total: 4
+23:37:54 >> Chap[3]
+23:38:26 Saves seen: 2
+23:38:36 Saves total: 4
+23:38:39 >> Chap[4]
+23:39:12 Saves seen: 2
+23:39:22 Saves total: 4
+23:39:25 >> Chap[5]
+23:39:57 Saves seen: 2
+23:40:07 Saves total: 4
+23:40:14 
+=== (5/12) 如何利用ChatGPT提高工作效率 (0%) ===
+23:40:19 Chaps: 7
+23:40:21 >> Chap[0]
+23:40:53 Saves seen: 2
+23:41:03 Saves total: 4
+23:41:06 >> Chap[1]
+23:41:39 Saves seen: 2
+23:41:49 Saves total: 4
+23:41:52 >> Chap[2]
+23:42:25 Saves seen: 2
+23:42:35 Saves total: 4
+23:42:39 >> Chap[3]
+23:43:11 Saves seen: 2
+23:43:21 Saves total: 4
+23:43:24 >> Chap[4]
+23:43:56 Saves seen: 2
+23:44:06 Saves total: 4
+23:44:10 >> Chap[5]
+23:44:42 Saves seen: 2
+23:44:52 Saves total: 4
+23:44:56 >> Chap[6]
+23:45:28 Saves seen: 2
+23:45:38 Saves total: 4
+23:45:45 
+=== (6/12) WPS AI助力职场文字办公更高效 (0%) ===
+23:45:50 Chaps: 8
+23:45:52 >> Chap[0]
+23:46:24 Saves seen: 2
+23:46:34 Saves total: 4
+23:46:37 >> Chap[1]
+23:47:09 Saves seen: 2
+23:47:19 Saves total: 4
+23:47:23 >> Chap[2]
+23:47:55 Saves seen: 2
+23:48:05 Saves total: 4
+23:48:09 >> Chap[3]
+23:48:42 Saves seen: 2
+23:48:52 Saves total: 4
+23:48:55 >> Chap[4]
+23:49:27 Saves seen: 2
+23:49:37 Saves total: 4
+23:49:41 >> Chap[5]
+23:50:13 Saves seen: 2
+23:50:23 Saves total: 4
+23:50:26 >> Chap[6]
+23:50:59 Saves seen: 2
+23:51:09 Saves total: 4
+23:51:12 >> Chap[7]
+23:51:44 Saves seen: 2
+23:51:54 Saves total: 4
+23:52:01 
+=== (7/12) WPS AI助力打造引人瞩目的PPT (0%) ===
+23:52:06 Chaps: 9
+23:52:08 >> Chap[0]
+23:52:40 Saves seen: 2
+23:52:50 Saves total: 4
+23:52:53 >> Chap[1]
+23:53:26 Saves seen: 2
+23:53:36 Saves total: 3
+23:53:39 >> Chap[2]
+23:54:18 Saves seen: 2
+23:54:28 Saves total: 3
+23:54:32 >> Chap[3]
+23:55:10 Saves seen: 2
+23:55:20 Saves total: 3
+23:55:23 >> Chap[4]
+23:56:01 Saves seen: 2
+23:56:11 Saves total: 3
+23:56:15 >> Chap[5]
+23:56:53 Saves seen: 2
+23:57:03 Saves total: 3
+23:57:06 >> Chap[6]
+23:57:44 Saves seen: 2
+23:57:54 Saves total: 3
+23:57:57 >> Chap[7]
+23:58:36 Saves seen: 2
+23:58:46 Saves total: 3
+23:58:50 >> Chap[8]
+23:59:28 Saves seen: 2
+23:59:38 Saves total: 3
+23:59:45 
+=== (8/12) WPS AI助力办公数据处理与分析 (0%) ===
+23:59:50 Chaps: 7
+23:59:51 >> Chap[0]
+00:00:30 Saves seen: 2
+00:00:40 Saves total: 3
+00:00:43 >> Chap[1]
+00:01:21 Saves seen: 2
+00:01:31 Saves total: 3
+00:01:35 >> Chap[2]
+00:02:13 Saves seen: 2
+00:02:23 Saves total: 3
+00:02:26 >> Chap[3]
+00:03:06 Saves seen: 2
+00:03:16 Saves total: 3
+00:03:20 >> Chap[4]
+00:03:57 Saves seen: 2
+00:04:07 Saves total: 3
+00:04:11 >> Chap[5]
+00:04:50 Saves seen: 2
+00:05:00 Saves total: 3
+00:05:03 >> Chap[6]
+00:05:41 Saves seen: 2
+00:05:51 Saves total: 3
+00:05:59 
+=== (9/12) AI时代如何打造数字化人才 (0%) ===
+00:06:04 Chaps: 10
+00:06:05 >> Chap[0]
+00:06:43 Saves seen: 2
+00:06:53 Saves total: 3
+00:06:57 >> Chap[1]
+00:07:36 Saves seen: 2
+00:07:46 Saves total: 3
+00:07:49 >> Chap[2]
+00:08:27 Saves seen: 2
+00:08:37 Saves total: 3
+00:08:41 >> Chap[3]
+00:09:19 Saves seen: 2
+00:09:29 Saves total: 3
+00:09:33 >> Chap[4]
+00:10:11 Saves seen: 2
+00:10:21 Saves total: 3
+00:10:24 >> Chap[5]
+00:11:03 Saves seen: 2
+00:11:13 Saves total: 3
+00:11:16 >> Chap[6]
+00:11:54 Saves seen: 2
+00:12:04 Saves total: 3
+00:12:07 >> Chap[7]
+00:12:44 Saves seen: 2
+00:12:54 Saves total: 3
+00:12:58 >> Chap[8]
+00:13:36 Saves seen: 2
+00:13:46 Saves total: 3
+00:13:49 >> Chap[9]
+00:14:27 Saves seen: 2
+00:14:37 Saves total: 3
+00:14:45 
+=== (10/12) WPS-AI在表格中的应用 (0%) ===
+00:14:50 Chaps: 8
+00:14:51 >> Chap[2]
+00:15:28 Saves seen: 2
+00:15:38 Saves total: 3
+00:15:42 >> Chap[3]
+00:16:20 Saves seen: 2
+00:16:30 Saves total: 3
+00:16:33 >> Chap[4]
+00:17:11 Saves seen: 2
+00:17:22 Saves total: 3
+00:17:25 >> Chap[5]
+00:18:03 Saves seen: 2
+00:18:13 Saves total: 3
+00:18:17 >> Chap[6]
+00:18:55 Saves seen: 2
+00:19:05 Saves total: 3
+00:19:08 >> Chap[7]
+00:19:43 Saves seen: 2
+00:19:53 Saves total: 3
+00:19:56 >> Chap[8]
+00:20:34 Saves seen: 2
+00:20:44 Saves total: 3
+00:20:48 >> Chap[9]
+00:21:28 Saves seen: 0
+00:21:38 Saves total: 2
+00:21:45 
+=== (11/12) WPS-AI在文字中的应用 (0%) ===
+00:21:50 Chaps: 16
+00:21:52 >> Chap[1]
+00:22:32 Saves seen: 1
+00:22:42 Saves total: 2
+00:22:45 >> Chap[2]
+00:23:24 Saves seen: 2
+00:23:34 Saves total: 3
+00:23:37 >> Chap[3]
+00:24:15 Saves seen: 2
+00:24:25 Saves total: 3
+00:24:29 >> Chap[4]
+00:25:07 Saves seen: 2
+00:25:17 Saves total: 3
+00:25:20 >> Chap[5]
+00:25:59 Saves seen: 2
+00:26:09 Saves total: 3
+00:26:12 >> Chap[6]
+00:26:50 Saves seen: 2
+00:27:00 Saves total: 3
+00:27:04 >> Chap[7]
+00:27:42 Saves seen: 2
+00:27:52 Saves total: 3
+00:27:55 >> Chap[8]
+00:28:33 Saves seen: 2
+00:28:43 Saves total: 3
+00:28:46 >> Chap[9]
+00:29:23 Saves seen: 2
+00:29:33 Saves total: 3
+00:29:37 >> Chap[10]
+00:30:14 Saves seen: 2
+00:30:24 Saves total: 3
+00:30:28 >> Chap[11]
+00:31:05 Saves seen: 2
+00:31:15 Saves total: 3
+00:31:18 >> Chap[12]
+00:31:56 Saves seen: 2
+00:32:06 Saves total: 3
+00:32:10 >> Chap[13]
+00:32:48 Saves seen: 2
+00:32:58 Saves total: 3
+00:33:02 >> Chap[14]
+00:33:40 Saves seen: 2
+00:33:50 Saves total: 3
+00:33:53 >> Chap[15]
+00:34:32 Saves seen: 2
+00:34:42 Saves total: 3
+00:34:45 >> Chap[16]
+00:35:25 Saves seen: 0
+00:35:35 Saves total: 3
+00:35:42 
+=== (12/12) DeepSeek高效办公实战指南课程 (0%) ===
+00:35:47 Chaps: 11
+00:35:49 >> Chap[0]
+00:36:29 Saves seen: 1
+00:36:39 Saves total: 2
+00:36:42 >> Chap[1]
+00:37:21 Saves seen: 2
+00:37:31 Saves total: 3
+00:37:34 >> Chap[2]
+00:38:13 Saves seen: 2
+00:38:23 Saves total: 3
+00:38:27 >> Chap[3]
+00:39:05 Saves seen: 2
+00:39:15 Saves total: 3
+00:39:18 >> Chap[4]
+00:39:57 Saves seen: 2
+00:40:07 Saves total: 3
+00:40:10 >> Chap[5]
+00:40:48 Saves seen: 2
+00:40:58 Saves total: 3
+00:41:02 >> Chap[6]
+00:41:40 Saves seen: 2
+00:41:50 Saves total: 3
+00:41:53 >> Chap[7]
+00:42:31 Saves seen: 2
+00:42:41 Saves total: 3
+00:42:45 >> Chap[8]
+00:43:23 Saves seen: 2
+00:43:33 Saves total: 3
+00:43:37 >> Chap[9]
+00:44:14 Saves seen: 2
+00:44:24 Saves total: 3
+00:44:27 >> Chap[10]
+00:45:04 Saves seen: 2
+00:45:14 Saves total: 3
+00:45:22 
+=== ALL DONE

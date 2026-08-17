@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<title>BrowserAutomationStudio: Chrome automation solution.</title>
+	<meta name="description" content="BrowserAutomationStudio is a solution that allows you to quickly create applications using browser, http client, email client, and other libraries. Programming skills are not required. Main application types: creation of posters, spammers, parsers, uploaders, apps for the social networks."/>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" href="/landing2/main.min.css">
+	<script src="/landing2/scripts.min.js"></script>
+
+</head>
+
+<body>
+	<form action="/buy" method="post" id="checkout-form">
+		<div class="navbar navbar-default navbar-fixed-top" id="navbar-checkout" style="top:-52px">
+			<div class="container">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<input type="hidden" id="checkout-data" name="checkout-data"  />
+						<a href="#" id="checkout-submit"><img class="shopping-cart" src="/landing2/shopping-cart.svg"/><span id="checkout-text"><span class="tr">Checkout</span> <span id='checkout-number'>3</span> <span class="tr">item</span><span id="checkout-number-single"><span class="tr">s</span></span></span></a>
+					</li>
+					<li><a href="#" id="clear-checkout"><img class="shopping-close" src="/landing2/close.svg"/></a></li>
+				</ul>
+			</div>
+		</div>
+	</form>
+
+	<!-- HEADER START -->
+
+	<header class="header">
+		<div class="container" id="main">
+			<div class="header-row">
+				<div class="header-left">
+					<a href="/shop/BrowserAutomationStudio" class="logo">BAS</a>
+					<ul class="header-left__menu">
+						<li>
+							<a href="/" target="_blank" class="tr">Shop</a>
+						</li>
+						<li>
+							<a href="https://wiki.bablosoft.com/" target="_blank" class="tr">Manual</a>
+						</li>
+						<li>
+							<a href="https://community.bablosoft.com/" target="_blank" class="tr">Community</a>
+						</li>
+					</ul>
+				</div>
+				<div class="header-right">
+					<div class="header-nav">
+						<div class="header-nav__links">
+							<a href="/personal" class="header-nav__link signindone" style="display:none">
+								<img data-echo="/landing2/user.png"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" style="width:16px;height:16px">
+								<span class="username"></span>
+							</a>
+							<a href="/register"  class="header-nav__link signinmissing" style="display:none">
+								<img data-echo="/landing2/user.png"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" style="width:16px;height:16px">
+								<span class="tr">Sign up</span>
+							</a>
+							<a href="/login"  class="header-nav__link signin" style="display:none">
+								<span class="tr">Sign in</span>
+							</a>
+						</div>
+					</div>
+					<ul class="language">
+						<li>
+							<a href="#" id="language-label-en">EN</a>
+						</li>
+						<li>
+							<a href="#" id="language-label-ru">RU</a>
+						</li>
+					</ul>
+				</div>
+				<div class="hamburger hamburger--vortex">
+					<div class="hamburger-box">
+						<div class="hamburger-inner"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<!-- HEADER END -->
+
+	<!-- MAIN CONTENT START -->
+
+	<div class="login">
+		<a href="/personal" class="header-nav__link signindone"  style="display:none">
+			<img data-echo="/landing2/user.png"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" style="width:16px;height:16px">
+			<span class="username"></span>
+		</a>
+		<a href="/register" class="header-nav__link signinmissing"  style="display:none">
+			<img data-echo="/landing2/user.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="  style="width:16px;height:16px">
+			<span class="tr">Sign up</span>
+		</a>
+		<a href="/login"  class="header-nav__link signin"  style="display:none">
+			<span class="tr">Sign in</span>
+		</a>
+	</div>
+
+	<div class="laptop">
+		<nav class="main-nav">
+			<ul class="main-list">
+				<li class="liseparatorsmallfirst"></li>
+				<li class="itemfirst"><a href="#overview" class="tr">How it works</a></li>
+				<li class="liseparatorsmall"></li>
+				<li><a href="#screenshots" class="tr">Appearance</a></li>
+				<li class="liseparatorsmall"></li>
+				<li><a href="#features" class="tr">Features</a></li>
+				<li class="liseparatorsmall"></li>
+				<li><a href="#app" class="tr">Creating applications</a></li>
+				<li class="liseparatorsmall"></li>
+				<li><a href="#learning" class="tr">Learning</a></li>
+			</ul>
+			<ul class="laptop main-nav__list">
+				<li>
+					<a href="https://bablosoft.com/" target="_blank" class="tr">Shop</a>
+				</li>
+				<li>
+					<a href="https://wiki.bablosoft.com/" target="_blank" class="tr">Manual</a>
+				</li>
+				<li>
+					<a href="https://community.bablosoft.com/" target="_blank" class="tr">Community</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+
+	<main class="main">
+		<section class="main-screen no-fade-in" data-echo-background="/landing2/pic.jpg" id="header">
+			<div class="main-screen-before no-fade-in" data-echo-background="/landing2/main-gradient.png"></div>
+			<div class="main-screen__bg"></div>
+			<div class="container">
+				<div class="main-screen__row">
+					<nav class="main-nav desktop">
+						<ul class="main-list">
+							<li><a href="#overview" class="tr">How it works</a></li>
+							<li class="liseparator"></li>
+							<li><a href="#screenshots" class="tr">Appearance</a></li>
+							<li class="liseparator"></li>
+							<li><a href="#features" class="tr">Features</a></li>
+							<li class="liseparator"></li>
+							<li><a href="#app" class="tr">Creating applications</a></li>
+							<li class="liseparator"></li>
+							<li><a href="#learning" class="tr">Learning</a></li>
+						</ul>
+						<ul class="mobile main-nav__list">
+							<li>
+								<a href="#" class="tr">Shop</a>
+							</li>
+							<li>
+								<a href="#" class="tr">Manual</a>
+							</li>
+							<li>
+								<a href="#" class="tr">Community</a>
+							</li>
+						</ul>
+					</nav>
+					<a href="#download" download class="btn btn--white desktop download-scroll">
+						<span class="tr">download</span>
+						<img src="/landing2/download.svg" >
+					</a>
+				</div>
+				<div class="main-screen__block">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="main-screen__content">
+								<h1 class="h1">
+									Browser Automation Studio
+								</h1>
+								<h1 class="h1shadow">
+										Browser Automation Studio
+									</h1>
+								<div class="main-screen__descr">
+									<span></span>
+									<img align="middle" src="/landing2/browser.png"  style="opacity: 0.0" id="ChromeLogo" />
+								</div>
+								<p style="opacity: 0.0" id="NoProgrammingSkills" class="tr">* No programming skills required. Create script in visual constructor.</p>
+								<a href="#download" download class="btn btn--white laptop download-scroll">
+									<span class="tr">download</span>
+									<img src="/landing2/download.svg" >
+								</a>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="main-screen__screenshot">
+								<img alt="BrowserAutomationStudio user interface" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/screen-bas.png"  style="width:777px;height:495px" class="no-fade-in">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="section-90 work" id="overview">
+			<div class="container">
+				<h2 class="h2 tl-center mb-90 tr">How it works?</h2>
+				<div class="work-block">
+					<div class="row justify-content-center justify-content-lg-end">
+						<div class="col-md-10 col-lg-8">
+							<div class="work-item work-item--1 work-item--left">
+								<div class="work-item__image">
+									<img alt="A problem" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/work-1.png"  style="width:230px;height:230px">
+								</div>
+								<div class="work-item__content">
+									<div class="work-item__num">01</div>
+									<h3 class="h3 tr">A problem</h3>
+									<p class="tr">Suppose you have a browser activity which you need to repeat continuously. Doing it manually is so tedious...</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-center">
+						<div class="col-lg-auto">
+							<div class="work-item work-item--2 work-item--right">
+								<div class="work-item__content order-md-1 order-2">
+									<div class="work-item__num">02</div>
+									<h3 class="h3 tr">Use BAS to solve it</h3>
+									<p class="tr">Download BAS, it is free and easy to install</p>
+								</div>
+								<div class="work-item__image order-md-2 order-1">
+									<img alt="Using browser automation studio" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/work-2.png"  style="width:373px;height:165px">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-center">
+						<div class="col-md-10 col-lg-7">
+							<div class="work-item work-item--3 work-item--left">
+								<div class="work-item__image">
+									<img alt="Working with browser automation studio" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/work-3.png"  style="width:200px;height:214px">
+								</div>
+								<div class="work-item__content">
+									<div class="work-item__num">03</div>
+									<h3 class="h3 tr">Repeat your activity only once more</h3>
+									<p class="tr">Do your workflow in BAS browser, it looks very similar to other browsers. You actions will be recorded  and saved as a project.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-start justify-content-lg-end">
+						<div class="col-md-10 col-lg-12">
+							<div class="work-item work-item--4 work-item--right">
+								<div class="work-item__content order-sm-1 order-2">
+									<div class="work-item__num">04</div>
+									<h3 class="h3 tr">Tweak it</h3>
+									<p class="tr">Set thread number, replace input data with user interface.</p>
+								</div>
+								<div class="work-item__image order-sm-2 order-1">
+									<img alt="Tweaking application" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/work-4.png"  style="width:200px;height:214px">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-center justify-content-lg-end">
+						<div class="col-md-9">
+							<div class="work-item work-item--left work-item--5">
+								<div class="work-item__image">
+									<img alt="Application is ready" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/work-5.png"  style="width:204px;height:241px">
+								</div>
+								<div class="work-item__content">
+									<div class="work-item__num">05</div>
+									<h3 class="h3 tr">Done</h3>
+									<p class="tr">Now you can replay your project. Make standalone executable and share, or schedule it and start when you want.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="section-90 screenshot" id="screenshots" data-echo-background="/landing2/screenshot-bg.jpg">
+			<div class="container">
+				<h2 class="h2 tl-center mb-75 white tr">Appearance</h2>
+				<div class="screenshot-row">
+					<div class="row align-items-center justify-content-center">
+						<div class="col-sm-8 col-md-6">
+							<div class="screenshot-image">
+								<a href="#" class="toolbox-modal">
+									<img alt="BAS Toolbar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/screenshot-1.png"  style="width:503px;height:362px">
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-4 col-md-6">
+							<div class="screenshot-content">
+								<h3 class="h3 white tr">Toolbar</h3>
+								<p class="tr">This panel contains all available functionality grouped by modules. Open required module and select action there. Search is also available.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="screenshot-row screenshot-row--reverse">
+					<div class="row align-items-end align-items-md-center justify-content-center">
+						<div class="col-sm-4 col-md-6 order-sm-1 order-2">
+							<div class="screenshot-content">
+								<h3 class="h3 white tr">Scenario panel</h3>
+								<p class="tr">It contains your script - a set of actions organized in a visually convenient form.</p>
+							</div>
+						</div>
+						<div class="col-sm-8 col-md-6 order-sm-2 order-1">
+							<div class="screenshot-image">
+								<a href="#" class="scenario-modal">
+									<img alt="BAS scenario panel" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/screenshot-2.png"  class="desktop" style="width:362px;height:504px">
+									<img alt="BAS scenario panel" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/screenshot-2-mobile.png"  class="laptop" style="width:403px;height:289px">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="screenshot-row">
+					<div class="row align-items-center align-items-lg-end justify-content-center">
+						<div class="col-sm-7 col-md-6">
+							<div class="screenshot-image">
+								<a href="#" class="browser-modal">
+									<img alt="BAS browser interaction" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/screenshot-3.png"  class="desktop" style="width:503px;height:362px">
+									<img alt="BAS browser interaction" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/screenshot-3-mobile.png"  class="laptop" style="width:294px;height:409px">
+								</a>
+							</div>
+						</div>
+						<div class="col-sm-5 col-md-6">
+							<div class="screenshot-content">
+								<h3 class="h3 white tr">Browser manipulation</h3>
+								<p class="tr">Interact with browser, your actions will be recorded automatically. Alternatively, add actions manually.</p>
+								<span class="tr-en">
+									<a href="https://youtu.be/knz-gDtFBc0" target="_blank" class="btn btn--video">
+										<img alt="BAS video intro" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/youtube-button.png"  style="width:75px;height:53px">
+										<span class="tr">Video demonstration</span>
+									</a>
+								</span>
+								<span class="tr-ru">
+									<a href="https://youtu.be/ZEGdNL8FsIs" target="_blank" class="btn btn--video">
+										<img alt="BAS video intro" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/youtube-button.png"  style="width:75px;height:53px">
+										<span class="tr">Video demonstration</span>
+									</a>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="screenshot-nav">
+					<span class="tr-en">
+						<a href="https://youtu.be/knz-gDtFBc0" target="_blank" class="btn btn--video">
+							<img alt="BAS video intro" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/youtube-button.png"  style="width:75px;height:53px">
+							<span class="tr">Video demonstration</span>
+						</a>
+					</span>
+					<span class="tr-ru">
+						<a href="https://youtu.be/ZEGdNL8FsIs" target="_blank" class="btn btn--video">
+							<img alt="BAS video intro" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/youtube-button.png"  style="width:75px;height:53px">
+							<span class="tr">Video demonstration</span>
+						</a>
+					</span>
+				</div>
+			</div>
+		</section>
+		<section class="features" id="features">
+			<div class="container">
+				<h2 class="h2 tl-center"><strong>Browser Automation Studio</strong> <span class="tr">is packed with all of the cutting-edge features you want and need</span>:</h2>
+				<div class="row">
+					<div class="col-lg-5 col-md-8">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Standalone application" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-1.png"   style="width:44px;height:44px">
+								</div>
+								<div class="features-item__info tr">Can create standalone bots.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">You can create standalone application and send to customer or publish online with several clicks.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Documentation" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-2.png"  style="width:36px;height:45px">
+								</div>
+								<div class="features-item__info tr">Well documented, well tested.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Has video tutorials, wiki and big community. Tested on many projects.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="features-item features-item--mobile">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Open source" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-3.png"  style="width:41px;height:36px">
+								</div>
+								<div class="features-item__info tr">Open source.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">You can fork and add new features by yourself. Examine how BAS works.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-8 col-sm-6">
+						<div class="features-item features-item--mobile">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Application store" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-4.png"  style="width:48px;height:41px">
+								</div>
+								<div class="features-item__info tr">Application store.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Sell your scripts in our shop. Earn with no initial investment.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 col-md-6">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="BAS visual constructor" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-5.png"  style="width:48px;height:49px">
+								</div>
+								<div class="features-item__info tr">No coding skills required! Make applications in visual constructor.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Use a variety of visual components to create a script.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="BAS multithreading" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-6.png"  style="width:37px;height:32px">
+								</div>
+								<div class="features-item__info tr">Easy and powerful multithreading.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Set thread number to make your script run in multithreading mode.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<div class="features-item features-item--mobile">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Javascript as embedded language" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-7.png"  style="width:38px;height:49px">
+								</div>
+								<div class="features-item__info tr">Javascript as embedded language.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Use javascript to empower your scripts. Node.js and NPM modules are also supported.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<div class="features-item features-item--mobile">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Recaptcha" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-8.png"  style="width:37px;height:38px">
+								</div>
+								<div class="features-item__info tr">Cheap ReCaptcha 2.0 solving.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">BAS uses special technology, which saves your money on any website, that has recaptcha 2.0. Version 3.0 is also supported.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Automatic captcha solving" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-19.png"  style="width:38px;height:39px">
+								</div>
+								<div class="features-item__info tr">Automatic captcha solving.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Integration with captcha solving services: 2captcha, rucaptcha, anti-captcha.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 hide-desktop">
+						<div class="features-item features-item--half">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Capmonster integration" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-10.png"  style="width:43px;height:43px">
+								</div>
+								<div class="features-item__info tr">Capmonster 2, Captcha sniper integration.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Use software to solve captchas for free!</p>
+							</div>
+						</div>
+						<div class="features-item features-item--half">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Receive sms" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-13.png"  style="width:42px;height:49px">
+								</div>
+								<div class="features-item__info tr">Receive sms module.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Activate phone module included.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 hide-mobile">
+						<div class="features-item features-item--half">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Capmonster integration" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-10.png"  style="width:43px;height:43px">
+								</div>
+								<div class="features-item__info tr">Capmonster 2, Captcha sniper integration.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Use software to solve captchas for free!</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6 hide-mobile">
+						<div class="features-item features-item--half features-item--mobile">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Receive sms" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-13.png"  style="width:42px;height:49px">
+								</div>
+								<div class="features-item__info tr">Receive sms module.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Activate phone module included.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="features-item features-item--mobile">
+							<div class="features-item__row features-item__row-block">
+								<div class="features-item__image">
+									<img alt="Chrome engine automation" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-11.png"  style="width:46px;height:46px">
+								</div>
+								<div class="features-item__info tr">100% browser emulation with Chrome engine.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">BAS uses Chrome engine to emulate browser. Humanlike mouse movements and keyboard emulation.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 col-md-6 col-sm-6 hide-desktop">
+						<div class="features-item features-item--half">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Browser fingerprints" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-12.png"  style="width:42px;height:44px">
+								</div>
+								<div class="features-item__info tr">Use the FingerprintSwitcher service to change browser fingerprint.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">It supports a variety of methods - changing Canvas fingerprint, WebGL, Audio, and other.</p>
+							</div>
+						</div>
+						<div class="features-item features-item--half">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="HTTP client" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-14.png"  style="width:43px;height:43px">
+								</div>
+								<div class="features-item__info tr">Very fast and optimized HTTP client(up to 2000 threads).</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Increase speed of your scripts by using HTTP client.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 col-md-6 hide-mobile">
+						<div class="features-item features-item--half">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Browser fingerprints" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-12.png"  style="width:42px;height:44px">
+								</div>
+								<div class="features-item__info tr">Use the FingerprintSwitcher service to change browser fingerprint.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">It supports a variety of methods - changing Canvas fingerprint, WebGL, Audio, and other.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 col-md-6 hide-mobile">
+						<div class="features-item features-item--half">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="HTTP client" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-14.png"  style="width:43px;height:43px">
+								</div>
+								<div class="features-item__info tr">Very fast and optimized HTTP client(up to 2000 threads).</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Increase speed of your scripts by using HTTP client.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 col-md-5 col-sm-6">
+						<div class="features-item features-item--mobile">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Custom user interface" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-15.png"  style="width:45px;height:45px">
+								</div>
+								<div class="features-item__info tr">User interface constructor.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Create user interface using a resource system. Premium users have the ability to create an interface using web technologies (HTML, javascript).</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-7 col-md-7 col-sm-6">
+						<div class="features-item features-item--mobile">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Database integration" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-16.png"  style="width:46px;height:47px">
+								</div>
+								<div class="features-item__info tr">Works with database. Add database to your project in several clicks.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">This feature may come in handy if you want to store some data, for example, if you want to create an account manager.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-7">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Application scheduler" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-20.png"  style="width:46px;height:46px">
+								</div>
+								<div class="features-item__info tr">Task scheduler.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Set a schedule for your projects in just a few clicks. Get execution information for each task.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-5">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="Receive email" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-17.png"  style="width:43px;height:43px">
+								</div>
+								<div class="features-item__info tr">Email module. Search in mailbox. Send email.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Receiving and sending email with BAS is easy.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="features-item">
+							<div class="features-item__row">
+								<div class="features-item__image">
+									<img alt="BAS modules" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/features-18.png"  style="width:40px;height:47px">
+								</div>
+								<div class="features-item__info tr">Extend functionality by using modules.</div>
+							</div>
+							<div class="features-item__content">
+								<p class="tr">Modular system allows you to extend BAS functionality. You can create your own modules with visual components.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="app" id="app" data-echo-background="/landing2/app-bg.jpg">
+			<div class="container">
+				<h2 class="h2 tl-center tr">BAS is especially optomized for creating standalone apps that can be shared or sold. You can create standalone bots for free, but premium version adds custom features like protecting your project, or customizing intarface.</h2>
+				<div class="app-arrows">
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/app-arrow.png"  style="width:1026px;height:203px">
+				</div>
+				<div class="tl-center app-link-wrap">
+					<a href="#" class="app-link">
+						<img alt="Custom interface demonstration" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/app-icon.png"  style="width:44px;height:45px">
+						<span class="tr">Your app.exe</span>
+					</a>
+				</div>
+				<div class="app-preview">
+					<span class="tr">(click to see how your app may look like)</span>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/app-image.png"  style="width:387px;height:35px">
+				</div>
+			</div>
+		</section>
+		<section class="become" id="learning" data-back="none">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 offset-lg-1">
+						<h2 class="h2 tr">Want to become a BAS professional?</h2>
+						<div class="become-block">
+							<div class="become-item">
+								<div class="become-item__image become-item__image--youtube">
+									<img alt="Browser Automation Studio video tutorials" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/youtube.png"  style="width:75px;height:53px">
+								</div>
+								<a href="https://www.youtube.com/playlist?list=PLAxtJ2sOFzvmO41DOZ8WqFjhIuRN_av2u" target="_blank" class="become-item__link tr-ru tr">Video tutorials</a>
+								<a href="https://www.youtube.com/playlist?list=PLAxtJ2sOFzvka7PTQL9nfuhWNu0VrsJVe" target="_blank" class="become-item__link tr-en tr">Video tutorials</a>
+								<p class="tr">This video course will help you both to understand BAS basics, as well as more complex topics, such as: multithreading, resource system, element searching, etc.</p>
+							</div>
+							<div class="become-item">
+								<div class="become-item__image">
+									<img alt="Browser Automation Studio premium support" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-echo="/landing2/become-icon.png"  style="width:62px;height:62px">
+								</div>
+								<a href="#download" class="become-item__link scroll tr">Premium support</a>
+								<p class="tr">We offer support by email or skype for premium users (messages only). It includes recommendations on how to implement particular task and resolving technical issues.</p>
+							</div>
+						</div>
+						<div class="become-info"><span class="tr">Also see</span> <a href="https://wiki.bablosoft.com" target="_blank" class="tr">wiki</a> <span class="tr">for more information, or visit</span> <a href="https://community.bablosoft.com" target="_blank" class="tr">community</a>.</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="price" id="download">
+			<div class="container">
+				<h2 class="h2 tr">Version comparison:</h2>
+				<div class="mobile">
+					<div class="price-mobile">
+						<div class="price-mobile__link active tr">Premium version</div>
+						<div class="price-mobile__link tr">Free version</div>
+					</div>
+				</div>
+				<div class="price-block">
+					<div class="price-block-before tr" data-echo-background="/landing2/payment-bg.png">Premium version</div>
+					<div class="price-table">
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Standart functionality.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-okay"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Creating applications without protection.</div>
+								<div class="price-table__text tr">This option is sufficient if you want to use script by yourself.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-okay"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Protect source code after compilation.</div>
+								<div class="price-table__text tr">Ability to create personal licenses and protect them with password.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-error"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Community support.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-okay"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content highlight-support">
+								<div class="price-table__head tr">Professional support.</div>
+								<div class="price-table__text tr">Guaranteed response within two working days by skype or email. Help with choosing project architecture.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-error"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">License management through web interface.</div>
+								<div class="price-table__text tr">Ability to create users and update their licenses through web interface.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-error"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Update scripts for all users with one click.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-error"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Source code access.</div>
+								<div class="price-table__text tr">Useful if you want change BAS and get actual source code.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-error"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Schedule tasks without BAS.</div>
+								<div class="price-table__text tr">Standalone application to manage, run and schedule task list without BAS.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row-error"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+						<div class="price-table__row">
+							<div class="price-table__content">
+								<div class="price-table__head tr">Custom interface for your applications.</div>
+								<div class="price-table__text"><span class="tr">Create application with custom user interface.</span> <a href="https://bablosoft.com/interface-builder/index.html" target="_blank" class="tr">Demo</a>.</div>
+							</div>
+							<div class="price-table__result">
+								<div class="price-item__row price-item__row_last price-item__row-error"></div>
+								<div class="price-item__row price-item__row-okay"></div>
+							</div>
+						</div>
+					</div>
+					<div class="price-block-after tr" data-echo-background="/landing2/free-bg.png">Free version</div>
+				</div>
+				<div class="price-nav">
+					<a href="#" class="btn btn--red tr btn-buy" buy-method="1" product-id="24">Buy premium for 1 year (80$)</a>
+					<a href="#" class="btn btn--red tr btn-buy" buy-method="2" product-id="24">Buy premium for 6 month (40$)</a>
+					<a href="https://bablosoft.com/distr/BrowserAutomationStudio/30.1.0/BrowserAutomationStudioInstallAllInOne.exe" class="btn btn--transparent tr">Download free version</a>
+				</div>
+			</div>
+		</section>
+	</main>
+
+	<!-- MAIN CONTENT  END -->
+
+	<!-- FOOTER START -->
+
+	<footer class="footer" data-echo-background="/landing2/footer-bg.jpg">
+		<div class="container">
+			<div class="copyright">BAS. Copyright © 2026</div>
+		</div>
+	</footer>
+
+	<!-- FOOTER END -->
+
+		
+	<div id="DemoModal" style="display:none;">
+		<video id="DemoPlayer" controls autoplay preload="auto" class="video">
+  			<source data-src="/landing2/WebInterface.mp4" type="video/mp4"></source>
+  			<source data-src="/landing2/WebInterface.webm" type="video/webm"></source>
+		</video>
+	</div>
+
+	<div id="BrowserModal" style="display:none;">
+		<video id="BrowserPlayer" controls autoplay preload="auto" class="video">
+  			<source data-src="/landing2/Browser.mp4" type="video/mp4"></source>
+  			<source data-src="/landing2/Browser.webm" type="video/webm"></source>
+		</video>
+	</div>
+
+	<div id="ToolbarModal" style="display:none;">
+		<video id="ToolbarPlayer" controls autoplay preload="auto" class="video">
+  			<source data-src="/landing2/Toolbar.mp4" type="video/mp4"></source>
+  			<source data-src="/landing2/Toolbar.webm" type="video/webm"></source>
+		</video>
+	</div>
+
+	<div id="ScenarioModal" style="display:none;">
+		<video id="ScenarioPlayer" controls autoplay preload="auto" class="video">
+  			<source data-src="/landing2/Scenario.mp4" type="video/mp4"></source>
+  			<source data-src="/landing2/Scenario.webm" type="video/webm"></source>
+		</video>
+	</div>
+
+
+	<button id="back-to-top" type="button" style="display:none">
+		<img alt="Move to top" src="/landing2/up.svg" />
+	</button>
+
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-90987729-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+
+</body>
+</html>

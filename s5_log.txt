@@ -1,0 +1,4 @@
+[11:08:17] S5
+[11:08:23] CAPTCHA
+[11:13:26] C: p537n
+[11:13:54] ERR: Cannot read properties of undefined (reading 'courseName')

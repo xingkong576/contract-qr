@@ -1,0 +1,9 @@
+[12:21:29] === INSPECT ===
+[12:21:36] WAITING CAPTCHA...
+[12:22:19] CAPTCHA: x52ce
+[12:22:47] STUDYING: 信息化与工业现代化 (38%)
+[12:22:53] BEFORE CLICK:
+[12:22:53] {"frames":1,"videos":0,"content":" 平凉专技人员继续教育培训平台\n\n客服热线\n\ncustomer hotline\n\n400-186-0607\n退出\n\n我的培训 选课列表 课程详情\n\n信息化与工业现代化\n\n课程价格： ¥ 6.0\n\n评价星级：\n0\n\n课程学时： 2.0学时\n\n学习人数： 118人\n\n移除\n继续学习\n\n已学38%\n\n课程详情\n课程目录\n1\n课程评价\n0\n配套资料\n0\n\n第1章  信息化与工业现代化\n\n一、信息时代的工业化及市场竞争新特点(00:13:01)\n已学完(00:13:01)\n二、制造业（企业）信息化(00:33:33)\n学习中(00:27:27)\n三、以信息化带动工业化(00:23:53)\n未学习(00:","btns":[{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"","cls":"el-dialog__headerbtn"},{"txt":"移除","cls":"comment white f16 plainbj"},{"txt":"继续学习","cls":"comment white f16 plainStudy"},{"txt":"","cls":"el-dialog__headerbtn"}]}
+[12:23:01] AFTER CLICK:
+[12:23:01] {"hash":"#/v_courseDetails?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&courseId=f11815ed-f859-4663-a2f1-2fb351d249eb","frames":1,"videos":0,"iframes":[""],"newElements":5,"content":" 平凉专技人员继续教育培训平台\n\n客服热线\n\ncustomer hotline\n\n400-186-0607\n退出\n\n我的培训 选课列表 课程详情\n\n信息化与工业现代化\n\n课程价格： ¥ 6.0\n\n评价星级：\n0\n\n课程学时： 2.0学时\n\n学习人数： 118人\n\n移除\n继续学习\n\n已学38%\n\n课程详情\n课程目录\n1\n课程评价\n0\n配套资料\n0\n\n第1章  信息化与工业现代化\n\n一、信息时代的工业化及市场竞争新特点(00:13:01)\n已学完(00:13:01)\n二、制造业（企业）信息化(00:33:33)\n学习中(00:27:27)\n三、以信息化带动工业化(00:23:53)\n未学习(00:","visibleWidth":1280,"sections":[]}
+[12:23:04] DONE

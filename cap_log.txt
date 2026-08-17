@@ -1,0 +1,79 @@
+20:11:52 === CAP ===
+20:11:52 Loading saved auth...
+20:11:59 URL: https://gp.hst360.com/index.html#/nosession?platformId
+20:11:59 Auth expired
+20:11:59 Fresh login needed
+20:12:04 W
+20:12:57 C: xmm4n
+20:12:59 In
+20:12:59 Auth saved!
+20:13:04 Course details loaded
+20:13:04 Popup opened: https://gp.hst360.com/index.html#/v_video?platformId=154&trainplanId=af7e9b8dce964ebdab00c0647155de7
+20:13:10 PF found
+20:13:10 
+=== SCRIPTS (2) ===
+20:13:10 --- Script #0 src= len=52 ---
+20:13:10 var logCenterAddress = "https://rxlog.chinahrt.com";
+20:13:10 --- Script #1 src= len=5000 ---
+20:13:10 
+// set domain
+if (window.location.host.split("chinahrt.com.cn").length > 1) {
+    document.domain = "chinahrt.com.cn";
+} else if (window.location.host.split("chinahrt.com").length > 1) {
+    document.domain = "chinahrt.com";
+}
+    (function () {
+        document.getElementById('myInput').focus();
+        document.getElementById('myInput').style.display = 'none';
+         const formatTime = (time) => {
+              const h = parseInt(time / 3600)
+              const minute = parseInt(time / 60 % 60)
+              const second = Math.ceil(time % 60)
+              const hours = h < 10 ? '0' + h : h
+              const formatSecond = second > 59 ? 59 : second
+              return (hours > 0 ? hours + ':' : '') +  (minute < 10 ? '0' + minute : minute) + ':' + (formatSecond < 10 ? '0' + formatSecond : formatSecond)
+        };
+        // 获取到参数
+        const questionList = eval();
+        const questionstimeSet = eval();
+        // 基础参数
+        const ifShowPauseAd =false;
+        const ifCanDrag =false;
+        const playbackRate = false
+        const businessId = '{dataMap.business_id}';
+        //回调事件时机相关
+        const seconds = ''.split(",");
+        // 上次播放到的位置
+        const lastPlayTime = 334.0 <= 0 ? 0 : 334.0;
+        // duration
+        const ifPauseBlur =false;
+        const showProgressBar =1;
+        const defaultClarity = "283001";
+        const ifRecord = true;
+        const sectionId = "a5b20c83fded44cb96c3e31ec409f8a01-1";
+        const adResourceAddress = "";
+        const adLinkAddress = "";
+        const proxyUrl = "https://gp.chinahrt.com/index.html#/v_proxy";
+        const domain = "https://courselook.hst360.com/";
+        const signId = "154#af7e9b8dce964ebdab00c0647155de76#ffc5c0d4145943feba1201ea28ca8f04";
+        const videoId = "4147ae61-486f-44f3-871e-46eb4978d4b8";
+        const autoPlay = 1;
+        const allowPlayRate = 0;
+        const recordId = "nr4OtICnQZkfo6RhenU4x";
+        const studyCode = "RVm1pYJ0ihn2pMGhgFBUK";
+        const limitPl
+20:13:10 ...(more 3000 chars)
+20:13:10 Played, waiting 90s...
+20:13:16 API#1 CT=text/html;charset=UTF-8 PD=5nMsAMMXQGTRHcORL8KC6h4H0YmVb4i9VXencPnDaew3QLnBOqG3pnOM22xFKq4TClQXPBq9gdeHXXGk24oY0vI9iGbkkKltQOMllHm7XmTLowf9d9LNPfcLZaXxHlMwrwS7K7EgknEU6bV1O4jxl4JCVBFUNg8mVGqhtObBjDI5FuSn7tnMY3onVrCov1
+20:13:25 Check 1: 1 API calls
+20:13:40 Check 2: 1 API calls
+20:13:44 API#2 CT=text/html;charset=UTF-8 PD=5nMsAMMXQGTRHcORL8KC6h4H0YmVb4i9VXencPnDaew3QLnBOqG3pnOM22xFKq4TClQXPBqBBavcvZg02L6c5pNmdptHR6pZ6iTZMGTfBmKnTQ9tUKrGVCvpPtqI3He1USLsO2445EwUroAdEIf65fSaKh3gImuE59twJUBB8QuDS26DwXK30fYN6EL0OT
+20:13:55 Check 3: 2 API calls
+20:13:55 
+=== API SUMMARY ===
+20:13:55 #1 POST https://content.hst360.com/videoPlay/takeRecordByToken
+20:13:55   CT: text/html;charset=UTF-8
+20:13:55   PD: 5nMsAMMXQGTRHcORL8KC6h4H0YmVb4i9VXencPnDaew3QLnBOqG3pnOM22xFKq4TClQXPBq9gdeHXXGk24oY0vI9iGbkkKltQOMllHm7XmTLowf9d9LNPfcLZaXxHlMwrwS7K7EgknEU6bV1O4jxl4JCVBFUNg8mVGqhtObBjDI5FuSn7tnMY3onVrCov1
+20:13:55 #2 POST https://content.hst360.com/videoPlay/takeRecordByToken
+20:13:55   CT: text/html;charset=UTF-8
+20:13:55   PD: 5nMsAMMXQGTRHcORL8KC6h4H0YmVb4i9VXencPnDaew3QLnBOqG3pnOM22xFKq4TClQXPBqBBavcvZg02L6c5pNmdptHR6pZ6iTZMGTfBmKnTQ9tUKrGVCvpPtqI3He1USLsO2445EwUroAdEIf65fSaKh3gImuE59twJUBB8QuDS26DwXK30fYN6EL0OT

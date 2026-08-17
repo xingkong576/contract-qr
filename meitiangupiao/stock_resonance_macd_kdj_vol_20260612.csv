@@ -1,0 +1,2 @@
+﻿score,rating,price,above_ma5,above_ma10,above_ma20,above_ma60,bull_arrange,ma5,ma10,ma20,ma60,dif,dea,macd,macd_golden,macd_dead,macd_above_zero,rsi,rsi_overbought,rsi_oversold,boll_mid,boll_up,boll_dn,kdj_k,kdj_d,kdj_j,kdj_golden,vol_surge_5,vol_expand,reasons,code,name
+12,A++ 强烈看好,47.74,True,True,True,False,False,46.19,46.54,46.92,48.16,-0.5669,-0.6119,0.0902,True,False,False,48.8,False,False,46.92,48.53,45.31,42.16,29.67,67.14,True,True,False,站上MA5; 站上MA10; 站上MA20; MACD金叉; 红柱放大; 放量; RSI中性; KDJ金叉; 接近布林上轨,sh603049,中策橡胶

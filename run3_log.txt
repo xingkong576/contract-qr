@@ -1,0 +1,81 @@
+[13:40:01] === START ===
+[13:40:01] Courses: 12
+[13:40:03] W
+[13:41:36] C: nwpp3
+[13:41:38] In
+[13:41:46] At courses
+[13:41:46] 
+=== 信息化与工业现代化 (58%) ===
+[13:41:51] Chaps: 4
+[13:41:51]   三、以信息化带动工业化(00:23:53) [学习中(00:21:00)]
+[13:41:51]   四、企业竞争力问题---复杂系统求解(00:16:16) [学习中(00:00:00)]
+[13:41:51]   五、我国制造业的跨越发展(00:12:20) [学习中(00:00:00)]
+[13:41:51]   六、结论(00:05:48) [学习中(00:00:00)]
+[13:41:51] >> 三、以信息化带动工业化(00:23:53)
+[13:41:57] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:41:57] Clicked play btn
+[13:42:03] PF found
+[13:42:03] Play: playing
+[13:42:03]   0% (0m) 16x
+[13:42:33] PF lost
+[13:42:35] >> 四、企业竞争力问题---复杂系统求解(00:16:16)
+[13:42:41] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:42:41] Clicked play btn
+[13:42:46] PF found
+[13:42:46] Play: playing
+[13:42:46]   0% (0m) 16x
+[13:43:16] PF lost
+[13:43:18] >> 五、我国制造业的跨越发展(00:12:20)
+[13:43:24] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:43:24] Clicked play btn
+[13:43:29] PF found
+[13:43:29] Play: playing
+[13:43:29]   0% (0m) 16x
+[13:43:59] PF lost
+[13:44:01] >> 六、结论(00:05:48)
+[13:44:12] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:44:12] Clicked play btn
+[13:44:17] PF found
+[13:44:17] Play: playing
+[13:44:17]   0% (0m) 16x
+[13:44:47] PF lost
+[13:44:54] 
+=== 企业数字化转型就是持续深入推进智能制造 (0%) ===
+[13:44:59] Chaps: 6
+[13:44:59]   第一章  企业数字化转型(00:14:06) [学习中(00:00:00)]
+[13:44:59]   第二章  数字化转型的国家目标(00:29:48) [学习中(00:00:00)]
+[13:44:59]   第三章  数字化转型的途径(00:20:25) [学习中(00:00:00)]
+[13:44:59]   第四章  智能制造（一）(00:20:46) [学习中(00:00:00)]
+[13:44:59]   第五章  智能制造（二）(00:28:00) [学习中(00:00:00)]
+[13:44:59]   第六章  总结(00:04:10) [学习中(00:00:00)]
+[13:44:59] >> 第一章  企业数字化转型(00:14:06)
+[13:45:06] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:45:06] Clicked play btn
+[13:45:11] PF found
+[13:45:11] Play: playing
+[13:45:11] No video
+[13:45:16] PF lost
+[13:45:16] No monitor, trying basic play
+[13:45:48] >> 第二章  数字化转型的国家目标(00:29:48)
+[13:45:54] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:45:54] Clicked play btn
+[13:45:59] PF found
+[13:45:59] Play: playing
+[13:45:59]   0% (0m) 16x
+[13:46:29] PF lost
+[13:46:31] >> 第三章  数字化转型的途径(00:20:25)
+[13:46:38] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:46:38] Clicked play btn
+[13:46:43] PF found
+[13:46:43] Play: playing
+[13:46:43]   0% (0m) 16x
+[13:47:13] PF lost
+[13:47:15] >> 第四章  智能制造（一）(00:20:46)
+[13:47:27] PlayBtns: [{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":""},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"videvwrap"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-header"},{"tag":"DIV","text":"平凉专技人员继续教育培训平台 ","cls":"video-wrap"},{"tag":"SPAN","text":"平凉专技人员继续教育培训平台","cls":"ml10"}]
+[13:47:27] Clicked play btn
+[13:47:32] PF found
+[13:47:32] Play err: frame.evaluate: Target page, context or browser has been clo
+[13:49:02] Monitor err: frame.evaluate: Target page, context or 
+[13:49:02] No monitor, trying basic play
+[13:49:04] >> 第五章  智能制造（二）(00:28:00)
+[13:49:04] FATAL: page.evaluate: Target page, context or browser has been closed

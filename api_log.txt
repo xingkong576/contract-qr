@@ -1,0 +1,17 @@
+[10:46:47] START
+[10:46:57] CAPTCHA?
+[10:47:42] C: na4nd
+[10:47:55] URL: https://gp.hst360.com/index.html#/v_trainplan_list?t=0.5272597038269539
+[10:48:04] COURSE LIST: #/v_selected_course?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&hidePlanEndDate=false
+[10:48:06] === CAPTURED APIS ===
+[10:48:06] API 0: https://gp.hst360.com/gp6/lms/stu/trainplanCourseHandle/trainplanCourseTypes?tra
+[10:48:06]   STATUS: 200
+[10:48:06]   BODY: {"code":"0","msg":"成功","data":[{"id":"1700","parentId":null,"name":"AI、数字、信息化类","planId":"af7e9b8dce964ebdab00c0647155de76","ifLeaf":true,"platformId":null,"level":1,"sort":17,"ifSystem":null,"state":null,"pid":null,"planName":"平凉市2026年专业技术人员继续教育专业课60学时","parentNode":null,"childNode":null,"logoUrl":
+[10:48:06] API 1: https://gp.hst360.com/gp6/lms/stu/trainplanCourseHandle/selectedCourseNoPassExam
+[10:48:06]   STATUS: 200
+[10:48:06]   BODY: {"code":"0","msg":"成功","data":0,"success":true}
+[10:48:06] API 2: https://gp.hst360.com/gp6/lms/stu/trainplanCourseHandle/selected_course?trainpla
+[10:48:06]   STATUS: 200
+[10:48:06]   BODY: {"code":"0","msg":"成功","data":{"trainplanInfo":{"id":"af7e9b8dce964ebdab00c0647155de76","name":"平凉市2026年专业技术人员继续教育专业课60学时","code":"20260420114702627","payType":"046001","payWay":"047001","parentId":"0","orgId":"154_1","orgName":"甘肃省","pubuserId":1,"startTime":"2026-04-01 00:00:00","endTime":"2026-11
+[10:48:06] VUE INFO: {"cardCount":12,"sampleAttrs":["data-v-f410e022=","class=pr"]}
+[10:48:06] DONE

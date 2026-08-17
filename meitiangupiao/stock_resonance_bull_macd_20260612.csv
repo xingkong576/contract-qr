@@ -1,0 +1,2 @@
+﻿score,rating,price,above_ma5,above_ma10,above_ma20,above_ma60,bull_arrange,ma5,ma10,ma20,ma60,dif,dea,macd,macd_golden,macd_dead,macd_above_zero,rsi,rsi_overbought,rsi_oversold,boll_mid,boll_up,boll_dn,kdj_k,kdj_d,kdj_j,kdj_golden,vol_surge_5,vol_expand,reasons,code,name
+11,A++ 强烈看好,69.94,True,True,True,True,True,65.4,64.8,64.34,55.96,2.3455,2.2997,0.0916,True,False,True,64.9,False,False,64.34,68.52,60.15,69.67,52.01,104.98,False,False,False,站上MA5; 站上MA10; 站上MA20; 站上MA60; 多头排列; MACD金叉; 零轴上方; 红柱放大; KDJ超买; 接近布林上轨,sz002768,国恩股份

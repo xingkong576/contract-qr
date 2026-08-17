@@ -1,0 +1,30 @@
+2026/05/30-06:42:56.173 3b78 Reusing MANIFEST C:\Users\Administrator\.openclaw\workspace\pw-profile\Default\Session Storage/MANIFEST-000001
+2026/05/30-06:42:56.174 3b78 Recovering log #33
+2026/05/30-06:42:56.177 3b78 Reusing old log C:\Users\Administrator\.openclaw\workspace\pw-profile\Default\Session Storage/000033.log 
+2026/05/30-06:46:46.651 600 Level-0 table #38: started
+2026/05/30-06:46:46.656 600 Level-0 table #38: 23860 bytes OK
+2026/05/30-06:46:46.658 600 Delete type=0 #33
+2026/05/30-06:55:16.432 600 Level-0 table #40: started
+2026/05/30-06:55:16.439 600 Level-0 table #40: 25458 bytes OK
+2026/05/30-06:55:16.443 600 Delete type=0 #37
+2026/05/30-07:03:44.339 600 Level-0 table #42: started
+2026/05/30-07:03:44.347 600 Level-0 table #42: 23259 bytes OK
+2026/05/30-07:03:44.352 600 Delete type=0 #39
+2026/05/30-07:11:28.229 600 Level-0 table #44: started
+2026/05/30-07:11:28.246 600 Level-0 table #44: 22421 bytes OK
+2026/05/30-07:11:28.248 600 Delete type=0 #41
+2026/05/30-07:11:28.249 600 Compacting 4@0 + 1@1 files
+2026/05/30-07:11:28.258 600 Generated table #45@0: 4599 keys, 175184 bytes
+2026/05/30-07:11:28.258 600 Compacted 4@0 + 1@1 files => 175184 bytes
+2026/05/30-07:11:28.260 600 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/30-07:11:28.261 600 Delete type=2 #35
+2026/05/30-07:11:28.261 600 Delete type=2 #38
+2026/05/30-07:11:28.261 600 Delete type=2 #40
+2026/05/30-07:11:28.261 600 Delete type=2 #42
+2026/05/30-07:11:28.261 600 Delete type=2 #44
+2026/05/30-07:18:09.111 600 Level-0 table #47: started
+2026/05/30-07:18:09.120 600 Level-0 table #47: 22587 bytes OK
+2026/05/30-07:18:09.122 600 Delete type=0 #43
+2026/05/30-07:24:38.156 600 Level-0 table #49: started
+2026/05/30-07:24:38.162 600 Level-0 table #49: 21009 bytes OK
+2026/05/30-07:24:38.164 600 Delete type=0 #46

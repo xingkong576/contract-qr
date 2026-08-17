@@ -1,0 +1,66 @@
+[12:34:45] START
+[12:34:52] CAPTCHA
+[12:35:23] C: 4ne47
+[12:35:47] Courses: 12
+[12:35:47] 
+--- 1/12: 信息化与工业现代化 (38%) ---
+[12:35:53] Chapters: 6
+[12:36:01]   NO VIDEO for chapter 0
+[12:36:11]   NO VIDEO for chapter 1
+[12:36:21]   NO VIDEO for chapter 2
+[12:36:31]   NO VIDEO for chapter 3
+[12:36:41]   NO VIDEO for chapter 4
+[12:36:52]   NO VIDEO for chapter 5
+[12:37:08] 
+--- 2/12: 企业数字化转型就是持续深入推进智能制造 (0%) ---
+[12:37:14] Chapters: 6
+[12:37:22]   NO VIDEO for chapter 0
+[12:37:32]   NO VIDEO for chapter 1
+[12:37:42]   NO VIDEO for chapter 2
+[12:37:52]   NO VIDEO for chapter 3
+[12:38:02]   NO VIDEO for chapter 4
+[12:38:12]   NO VIDEO for chapter 5
+[12:38:33] 
+--- 3/12: AI办公实用技能 (0%) ---
+[12:38:39] Chapters: 11
+[12:38:49]   NO VIDEO for chapter 0
+[12:38:59]   NO VIDEO for chapter 1
+[12:39:09]   NO VIDEO for chapter 2
+[12:39:19]   NO VIDEO for chapter 3
+[12:39:29]   NO VIDEO for chapter 4
+[12:39:39]   NO VIDEO for chapter 5
+[12:39:49]   NO VIDEO for chapter 6
+[12:39:59]   NO VIDEO for chapter 7
+[12:40:09]   NO VIDEO for chapter 8
+[12:40:19]   NO VIDEO for chapter 9
+[12:40:29]   NO VIDEO for chapter 10
+[12:40:46] 
+--- 4/12: 数字化办公基础——数字化办公概述 (0%) ---
+[12:40:52] Chapters: 6
+[12:41:00]   NO VIDEO for chapter 0
+[12:41:10]   NO VIDEO for chapter 1
+[12:41:20]   NO VIDEO for chapter 2
+[12:41:30]   NO VIDEO for chapter 3
+[12:41:40]   NO VIDEO for chapter 4
+[12:41:50]   NO VIDEO for chapter 5
+[12:42:06] 
+--- 5/12: 如何利用ChatGPT提高工作效率 (0%) ---
+[12:42:12] Chapters: 7
+[12:42:20]   NO VIDEO for chapter 0
+[12:42:30]   NO VIDEO for chapter 1
+[12:42:40]   NO VIDEO for chapter 2
+[12:42:50]   NO VIDEO for chapter 3
+[12:43:00]   NO VIDEO for chapter 4
+[12:43:10]   NO VIDEO for chapter 5
+[12:43:20]   NO VIDEO for chapter 6
+[12:43:37] 
+--- 6/12: WPS AI助力职场文字办公更高效 (0%) ---
+[12:43:43] Chapters: 8
+[12:43:51]   NO VIDEO for chapter 0
+[12:44:01]   NO VIDEO for chapter 1
+[12:44:11]   NO VIDEO for chapter 2
+[12:44:21]   NO VIDEO for chapter 3
+[12:44:31]   NO VIDEO for chapter 4
+[12:44:41]   NO VIDEO for chapter 5
+[12:44:51]   NO VIDEO for chapter 6
+[12:44:51] ERR: page.evaluate: Target page, context or browser has been closed

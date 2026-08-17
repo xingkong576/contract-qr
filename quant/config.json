@@ -1,0 +1,45 @@
+{
+  "strategy": "grid_trading",
+  "capital": {
+    "total": 200000,
+    "stock_allocation": 100000,
+    "cash_allocation": 100000
+  },
+  "targets": [
+    {
+      "symbol": "510300",
+      "name": "沪深300ETF",
+      "type": "etf",
+      "price_range": {
+        "lower": 3.5,
+        "upper": 4.5
+      },
+      "grid": {
+        "num_grids": 15,
+        "grid_width_pct": 2.5,
+        "quantity_per_grid": 500,
+        "buy_price_offset": 0.05,
+        "sell_price_offset": 0.05
+      },
+      "risk": {
+        "stop_loss_pct": -15.0,
+        "take_profit_pct": 20.0,
+        "max_holding_days": 60
+      }
+    }
+  ],
+  "trading": {
+    "commission_rate": 0.00025,
+    "min_commission": 5,
+    "stamp_tax": 0.0005,
+    "slippage": 0.001,
+    "check_interval_seconds": 30,
+    "trading_hours_only": true
+  },
+  "alerts": {
+    "wechat_enabled": false,
+    "dingtalk_webhook": "",
+    "on_trade": true,
+    "on_stop_loss": true
+  }
+}

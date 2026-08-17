@@ -1,0 +1,249 @@
+14:19:30 === DIRECT3 ===
+14:19:30 Courses: 12
+14:19:36 W
+14:21:26 C: xge3m
+14:21:27 In
+14:21:35 
+=== 信息化与工业现代化 (58%) ===
+14:21:40 All done
+14:21:40 
+=== 企业数字化转型就是持续深入推进智能制造 (0%) ===
+14:21:45 Chaps: 6
+14:21:45 >> 第一章  企业数字化转型(00:14:06) [2026af7e9b8dce964ebdab00c0647155de76_a5b20c83fded44cb96c3e31ec409f8a0_0]
+14:21:57 Result: no_token
+14:22:00 >> 第二章  数字化转型的国家目标(00:29:48) [2026af7e9b8dce964ebdab00c0647155de76_a5b20c83fded44cb96c3e31ec409f8a0_1]
+14:22:16 Result: no_token
+14:22:19 >> 第三章  数字化转型的途径(00:20:25) [2026af7e9b8dce964ebdab00c0647155de76_a5b20c83fded44cb96c3e31ec409f8a0_2]
+14:22:30 Result: no_token
+14:22:33 >> 第四章  智能制造（一）(00:20:46) [2026af7e9b8dce964ebdab00c0647155de76_a5b20c83fded44cb96c3e31ec409f8a0_3]
+14:22:47 Result: no_token
+14:22:50 >> 第五章  智能制造（二）(00:28:00) [2026af7e9b8dce964ebdab00c0647155de76_a5b20c83fded44cb96c3e31ec409f8a0_4]
+14:23:10 Result: no_token
+14:23:13 >> 第六章  总结(00:04:10) [2026af7e9b8dce964ebdab00c0647155de76_a5b20c83fded44cb96c3e31ec409f8a0_5]
+14:23:32 Result: no_token
+14:23:49 
+=== AI办公实用技能 (0%) ===
+14:23:54 Chaps: 11
+14:23:54 >> 第1节：AI搜索的技巧与应用(00:30:15) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_0]
+14:24:09 Result: no_token
+14:24:12 >> 第2节：AI思维导图的轻松生成与应用(00:28:04) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_1]
+14:24:24 Result: no_token
+14:24:27 >> 第3节：AI文生图的创作与实践(00:31:53) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_2]
+14:24:42 Result: no_token
+14:24:45 >> 第4节：AI图生文的方法与应用(00:27:28) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_3]
+14:25:05 Result: no_token
+14:25:08 >> 第5节：AI智能体的搭建与应用(00:37:36) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_4]
+14:25:28 Result: no_token
+14:25:31 >> 第6节：利用AI实现办公材料的快速改写(00:23:26) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_5]
+14:25:45 Result: no_token
+14:25:48 >> 第7节：无所不能的AI语音聊天人(00:39:39) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_6]
+14:26:00 Result: no_token
+14:26:03 >> 第8节：AI调研数据分析的操作技巧(00:24:11) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_7]
+14:26:15 Result: no_token
+14:26:18 >> 第9节：利用AI进行论文评审(00:22:43) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_8]
+14:26:38 Result: no_token
+14:26:41 >> 第10节：免费提取图片文字和表格数据(00:21:01) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_9]
+14:27:01 Result: no_token
+14:27:04 >> 第11节：批量图片创意排版的神器(00:28:06) [2026af7e9b8dce964ebdab00c0647155de76_AUOO5lkPYyZgUfTNzdB1s_10]
+14:27:24 Result: no_token
+14:27:40 
+=== 数字化办公基础——数字化办公概述 (0%) ===
+14:27:45 Chaps: 6
+14:27:45 >> 第1节：数字化办公的常用技术与工具(00:26:14) [2026af7e9b8dce964ebdab00c0647155de76_B1h4oVhujarMckjFVzusA_0]
+14:27:59 Result: no_token
+14:28:02 >> 第2节：办公自动化系统（OA系统）简介(00:22:24) [2026af7e9b8dce964ebdab00c0647155de76_B1h4oVhujarMckjFVzusA_1]
+14:28:14 Result: no_token
+14:28:17 >> 第3节：职场办公常用技能概述（上）(00:24:48) [2026af7e9b8dce964ebdab00c0647155de76_B1h4oVhujarMckjFVzusA_2]
+14:28:32 Result: no_token
+14:28:35 >> 第4节：职场办公常用技能概述（下）(00:31:40) [2026af7e9b8dce964ebdab00c0647155de76_B1h4oVhujarMckjFVzusA_3]
+14:28:54 Result: no_token
+14:28:57 >> 第5节：数字化办公技能提升的有效途径(00:28:54) [2026af7e9b8dce964ebdab00c0647155de76_B1h4oVhujarMckjFVzusA_4]
+14:29:16 Result: no_token
+14:29:19 >> 第6节：政策驱动下的数字化办公及理念创新(00:41:08) [2026af7e9b8dce964ebdab00c0647155de76_B1h4oVhujarMckjFVzusA_5]
+14:29:39 Result: no_token
+14:29:54 
+=== 如何利用ChatGPT提高工作效率 (0%) ===
+14:29:59 Chaps: 7
+14:29:59 >> 第1节：ChatGPT的超能力(00:10:56) [2026af7e9b8dce964ebdab00c0647155de76_RdbapCuf9D1dnQITmrAe8_0]
+14:30:14 Result: no_token
+14:30:17 >> 第2节：ChatGPT重塑岗位需求(00:12:33) [2026af7e9b8dce964ebdab00c0647155de76_RdbapCuf9D1dnQITmrAe8_1]
+14:30:29 Result: no_token
+14:30:32 >> 第3节：ChatGPT平台推荐与提问技巧(00:07:47) [2026af7e9b8dce964ebdab00c0647155de76_RdbapCuf9D1dnQITmrAe8_2]
+14:30:45 Result: no_token
+14:30:48 >> 第4节：如何进行问题定义和需求澄清(00:12:46) [2026af7e9b8dce964ebdab00c0647155de76_RdbapCuf9D1dnQITmrAe8_3]
+14:31:07 Result: no_token
+14:31:10 >> 第5节：引导式提问与直接提问的对比(00:11:24) [2026af7e9b8dce964ebdab00c0647155de76_RdbapCuf9D1dnQITmrAe8_4]
+14:31:31 Result: no_token
+14:31:34 >> 第6节：角色扮演与高情商沟通(00:07:08) [2026af7e9b8dce964ebdab00c0647155de76_RdbapCuf9D1dnQITmrAe8_5]
+14:31:53 Result: no_token
+14:31:56 >> 第7节：ChatGPT的强大功能(00:09:32) [2026af7e9b8dce964ebdab00c0647155de76_RdbapCuf9D1dnQITmrAe8_6]
+14:32:14 Result: no_token
+14:32:30 
+=== WPS AI助力职场文字办公更高效 (0%) ===
+14:32:35 Chaps: 8
+14:32:35 >> 第1节：智能创作：套用模板或输入主题，AI一键生成文稿！(0 [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_0]
+14:32:47 Result: no_token
+14:32:50 >> 第2节：智能分析：阅读理解，报告等长文档重点一目了然！(00 [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_1]
+14:33:01 Result: no_token
+14:33:04 >> 第3节：智能编排：WPS AI有妙招，轻松搞定文档排版难题！ [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_2]
+14:33:22 Result: no_token
+14:33:25 >> 第4节：阅读理解：PDF文档不便读？召唤AI助手帮你搞定！( [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_3]
+14:33:42 Result: no_token
+14:33:45 >> 第5节：排版编辑：版式文件不便改？PDF一站式帮你解决！(0 [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_4]
+14:34:04 Result: no_token
+14:34:07 >> 第6节：内容创作：文案创作零思路？召唤WPS AI助手帮你写 [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_5]
+14:34:26 Result: no_token
+14:34:29 >> 第7节：美化编排：文档呈现太单调？3步让文档呈现更丰富！(0 [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_6]
+14:34:48 Result: no_token
+14:34:51 >> 第8节：协同创作：文档共创效率低？在线协同编辑不存疑！(00 [2026af7e9b8dce964ebdab00c0647155de76_o1MiPsmqXMOX14VpavnmD_7]
+14:35:10 Result: no_token
+14:35:24 
+=== WPS AI助力打造引人瞩目的PPT (0%) ===
+14:35:29 Chaps: 9
+14:35:29 >> 第1节：一键生成：输入主题或导入文档，AI一键生成PPT！( [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_0]
+14:35:45 Result: no_token
+14:35:48 >> 第2节：文档转换：文档一键转换，快速套用公司PPT模板！(0 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_1]
+14:36:00 Result: no_token
+14:36:03 >> 第3节：智能排版：AI一键图示化，4招快速美化大段文本！(0 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_2]
+14:36:15 Result: no_token
+14:36:18 >> 第4节：图片处理：4大AI图片处理技巧，解决素材的难题！(0 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_3]
+14:36:38 Result: no_token
+14:36:41 >> 第5节：图片设计：只需一招，让你的图片展示形象又生动！(00 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_4]
+14:37:00 Result: no_token
+14:37:03 >> 第6节：多图排版：图片太多不会排版？3招帮你一键搞定！(00 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_5]
+14:37:21 Result: no_token
+14:37:24 >> 第7节：表格美化：用AI两步搞定表格排版，数据展示无忧！(0 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_6]
+14:37:43 Result: no_token
+14:37:46 >> 第8节：图表美化：用AI美化3类高频图表，信息一目了然！(0 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_7]
+14:38:05 Result: no_token
+14:38:08 >> 第9节：页面动画：AI一键添加动画，3招让演示生动有趣！(0 [2026af7e9b8dce964ebdab00c0647155de76_FJ2mKK3f76dh3jXcCDdS6_8]
+14:38:25 Result: no_token
+14:38:39 
+=== WPS AI助力办公数据处理与分析 (0%) ===
+14:38:44 Chaps: 7
+14:38:44 >> 第1节：创建收集：AI内容识别，数据收集表单一键生成！(00 [2026af7e9b8dce964ebdab00c0647155de76_de5VoLjABjLj87ZpE7m0F_0]
+14:39:05 Result: no_token
+14:39:08 >> 第2节：统计分析：AI智能分析，让统计结果可视化呈现！(00 [2026af7e9b8dce964ebdab00c0647155de76_de5VoLjABjLj87ZpE7m0F_1]
+14:39:27 Result: no_token
+14:39:30 >> 第3节：数据整理：对话操作表格，不用担心功能找不到！(00: [2026af7e9b8dce964ebdab00c0647155de76_de5VoLjABjLj87ZpE7m0F_2]
+14:39:49 Result: no_token
+14:39:52 >> 第4节：函数公式：AI一键写公式，不懂函数公式也不怕！(00 [2026af7e9b8dce964ebdab00c0647155de76_de5VoLjABjLj87ZpE7m0F_3]
+14:40:12 Result: no_token
+14:40:15 >> 第5节：公式应用：AI在行政管理表与销售统计表的妙用！(00 [2026af7e9b8dce964ebdab00c0647155de76_de5VoLjABjLj87ZpE7m0F_4]
+14:40:32 Result: no_token
+14:40:35 >> 第6节：数据分析：AI一键做分析，轻松搞定数据可视化！(00 [2026af7e9b8dce964ebdab00c0647155de76_de5VoLjABjLj87ZpE7m0F_5]
+14:40:55 Result: no_token
+14:40:58 >> 第7节：批量处理：AI智能提取信息，快速生成洞察的内容！(0 [2026af7e9b8dce964ebdab00c0647155de76_de5VoLjABjLj87ZpE7m0F_6]
+14:41:17 Result: no_token
+14:41:32 
+=== AI时代如何打造数字化人才 (0%) ===
+14:41:37 Chaps: 10
+14:41:37 >> 第1节：AI时代对管理者的新要求：自身极度理性 激活绽放他人 [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_0]
+14:41:51 Result: no_token
+14:41:54 >> 第2节：如何激活组织中最容易躺平的两类员工？(00:15:1 [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_1]
+14:42:07 Result: no_token
+14:42:10 >> 第3节：五段经理人——释放员工潜能的五阶方法(00:10:3 [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_2]
+14:42:22 Result: no_token
+14:42:25 >> 第4节：京东：打开员工安全开关，疫情期间一战成名(00:06 [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_3]
+14:42:43 Result: no_token
+14:42:46 >> 第5节：硅谷智库IDEO：用数字化手段让一线团队无所不能(0 [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_4]
+14:43:02 Result: no_token
+14:43:06 >> 第1节：AI时代的管理智慧：构建云端的组织大脑(00:09: [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_5]
+14:43:24 Result: no_token
+14:43:27 >> 第2节：AI如何帮组织萃取知识，帮员工提高工作效率？(00: [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_6]
+14:43:47 Result: no_token
+14:43:50 >> 第3节：从小米七字诀的正确排序，看企业如何萃取自己的方法论( [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_7]
+14:44:07 Result: no_token
+14:44:10 >> 第4节：伟大的公司靠什么持续成功？一套世界级方法论！(00: [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_8]
+14:44:28 Result: no_token
+14:44:31 >> 第5节：从母婴童行业的龙头企业孩子王，看搭建组织大脑的两大核 [2026af7e9b8dce964ebdab00c0647155de76_HCvLXRL3LlMB5vMba2E2O_9]
+14:44:49 Result: no_token
+14:45:02 
+=== WPS-AI在表格中的应用 (0%) ===
+14:45:07 Chaps: 10
+14:45:07 >> 第1节：本章概述(00:01:08) [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_0]
+14:45:28 Result: no_token
+14:45:31 >> 第2节：如何启动表格客户端里的AI功能(00:03:10) [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_1]
+14:45:51 Result: no_token
+14:45:54 >> 第3节：表格AI的相关属性设置(00:03:25) [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_2]
+14:46:14 Result: no_token
+14:46:17 >> 第4节：表格AI具体功能的掌握：通过AI写公式(00:15: [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_3]
+14:46:35 Result: no_token
+14:46:38 >> 第5节：表格AI具体功能的掌握：通过AI设置条件格式(00: [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_4]
+14:46:57 Result: no_token
+14:47:00 >> 第6节：表格AI具体功能的掌握：通过AI分析数据(00:11 [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_5]
+14:47:19 Result: no_token
+14:47:22 >> 第7节：表格AI具体功能的掌握：通过AI操作表格(00:14 [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_6]
+14:47:41 Result: no_token
+14:47:44 >> 第8节：表格AI具体功能的掌握：通过AI快速建表(00:03 [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_7]
+14:48:04 Result: no_token
+14:48:07 >> 第9节：表格AI具体功能的掌握：通过AI批量生成(00:05 [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_8]
+14:48:26 Result: no_token
+14:48:29 >> 第10节：表格AI具体功能的掌握：通过AI快速问答(00:0 [2026af7e9b8dce964ebdab00c0647155de76_XFxA50AZ9Um66jAJknCfi_9]
+14:48:49 Result: no_token
+14:49:02 
+=== WPS-AI在文字中的应用 (0%) ===
+14:49:07 Chaps: 18
+14:49:07 >> 第1节：本章概述(00:01:10) [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_0]
+14:49:25 Result: no_token
+14:49:28 >> 第2节：如何启动文字客户端里的AI功能(00:11:33) [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_1]
+14:49:49 Result: no_token
+14:49:52 >> 第3节：文字客户端里AI的相关属性设置(00:03:59) [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_2]
+14:50:10 Result: no_token
+14:50:13 >> 第4节：文字AI具体功能的掌握：AI帮我写(00:19:33 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_3]
+14:50:31 Result: no_token
+14:50:34 >> 第5节：文字AI具体功能的掌握：AI伴写(00:08:12) [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_4]
+14:50:53 Result: no_token
+14:50:56 >> 第6节：文字AI具体功能的掌握：AI扩写、缩写、续写、重写的 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_5]
+14:51:10 Result: no_token
+14:51:13 >> 第7节：文字AI具体功能的掌握：Al润色(00:09:55) [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_6]
+14:51:29 Result: no_token
+14:51:32 >> 第8节：文字AI具体功能的掌握：文本转换(00:06:26) [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_7]
+14:51:53 Result: no_token
+14:51:56 >> 第9节：文字AI具体功能的掌握：全文总结和文档问答(00:1 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_8]
+14:52:14 Result: no_token
+14:52:17 >> 第10节：文字AI具体功能的掌握：AI排版(00:11:05 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_9]
+14:52:36 Result: no_token
+14:52:39 >> 第11节：文字AI具体功能的掌握：AI生成脑图(00:07: [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_10]
+14:52:57 Result: no_token
+14:53:00 >> 第12节：文字AI具体功能的掌握：AI生成知识卡片(00:0 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_11]
+14:53:19 Result: no_token
+14:53:22 >> 第13节：文字AI具体功能的掌握：自动生成目录(00:07: [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_12]
+14:53:39 Result: no_token
+14:53:42 >> 第14节：文字AI具体功能的掌握：WPS的图像AI滤镜(00 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_13]
+14:54:00 Result: no_token
+14:54:03 >> 第15节：文字AI具体功能的掌握：AI生成表格(00:06: [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_14]
+14:54:20 Result: no_token
+14:54:23 >> 第16节：文字AI具体功能的掌握：AI解释、翻译、总结(00 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_15]
+14:54:43 Result: no_token
+14:54:46 >> 第17节：文字AI具体功能的掌握：法律助手(00:04:59 [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_16]
+14:55:05 Result: no_token
+14:55:08 >> 第18节：结束语(00:01:34) [2026af7e9b8dce964ebdab00c0647155de76_uuFLB9IoyOzioDqPsJdEH_17]
+14:55:27 Result: no_token
+14:55:42 
+=== DeepSeek高效办公实战指南课程 (0%) ===
+14:55:47 Chaps: 11
+14:55:47 >> 第1节：探索DeepSeek核心亮点，人工智能重塑工作模式( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_0]
+14:56:03 Result: no_token
+14:56:06 >> 第2节：搭建DeepSeek满血渠道，告别官方繁忙卡顿现状( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_1]
+14:56:18 Result: no_token
+14:56:21 >> 第3节：理清DeepSeek三种模式，打造个人高效办公系统( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_2]
+14:56:33 Result: no_token
+14:56:36 >> 第4节：开启DeepSeek联网搜索，快速抓取各项专业数据( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_3]
+14:56:53 Result: no_token
+14:56:56 >> 第5节：DeepSeek五个对话法则，实现对话交流轻松自在( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_4]
+14:57:14 Result: no_token
+14:57:17 >> 第6节：优化DeepSeek提问方式，提升用户问答体验效果( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_5]
+14:57:35 Result: no_token
+14:57:38 >> 第7节：活用DeepSeek官方词库，轻松打造专属对话助手( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_6]
+14:57:56 Result: no_token
+14:57:59 >> 第8节：DeepSeek结合思维导图，让复杂信息可视化呈现( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_7]
+14:58:12 Result: no_token
+14:58:15 >> 第9节：解锁DeepSeek上手技巧，从零开始实现效率跨越( [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_8]
+14:58:27 Result: no_token
+14:58:30 >> 第10节：理清五类高阶业务需求，精准有效触达问题核心(00: [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_9]
+14:58:42 Result: no_token
+14:58:45 >> 第11节：掌握提示词效果倍增技巧，避免产生AI幻觉和陷阱(0 [2026af7e9b8dce964ebdab00c0647155de76_kAzELXIb6yZa3XrXTHGUZ_10]
+14:59:00 Result: no_token
+14:59:13 
+=== ALL DONE ===
