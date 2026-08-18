@@ -1,3 +1,0 @@
-20:14:14 === FULL ===
-20:14:21 URL: https://gp.hst360.com/index.html#/nosession?platformId
-20:14:21 Auth expired, login needed
