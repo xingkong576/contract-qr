@@ -1,8 +1,0 @@
-[13:18:58] === FIND API ===
-[13:19:05] W
-[13:19:43] C: n4d6y
-[13:19:56] PROGRESS: cted_course?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&curPage=
-[13:19:56]   BODY: {"code":"0","msg":"成功","data":{"trainplanInfo":{"id":"af7e9b8dce964ebdab00c0647155de76","name":"平凉市2026年专业技术人员继续教育专业课60学时","code":"20260420114702627","payType":"046001","payWay":"047001","parentId":"0","orgId":"154_1","orgName":"甘肃省","pubuserId":1,"startTime":"2026-04-01 00:00:00","endTime":"2026-11
-[13:20:06] HASH: #/v_selected_course?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&hidePlanEndDate=false
-[13:20:06] Courses via Vue: []
-[13:20:06] No incomplete courses

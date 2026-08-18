@@ -1,4 +1,0 @@
-[11:16:35] S7
-[11:16:45] CAPTCHA
-[11:20:12] C: ddr4r
-[11:20:12] ERR: locator.type: Target page, context or browser has been closed

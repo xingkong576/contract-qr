@@ -1,8 +1,0 @@
-[11:00:29] === FINAL AUTO STUDY ===
-[11:00:37] CAPTCHA
-[11:01:22] C: bp6mn
-[11:01:52] COURSES: 12
-[11:01:52] 
-=== 1/12: 信息化与工业现代化 (12%) ===
-[11:01:52] -> course details
-[11:01:52] ERR: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.

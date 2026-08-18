@@ -1,7 +1,0 @@
-[11:14:33] S6
-[11:14:39] CAPTCHA
-[11:15:21] C: d8pef
-[11:15:59] HASH: #/v_selected_course?trainplanId=af7e9b8dce964ebdab00c0647155de76&platformId=154&hidePlanEndDate=false
-[11:15:59] NO COURSES FOUND in Vue
-[11:15:59] VUE DUMP: {"keys":"_uid,_isVue,$options,_renderProxy,_self,$parent,$root,$children,$refs,_watcher,_inactive,_directInactive,_isMounted,_isDestroyed,_isBeingDestroyed,_events,_hasHookEvent,_vnode,_staticTrees,$vnode,$slots,$scopedSlots,_c,$createElement,$attrs,$listeners,_routerRoot,$validator,_watchers,_data,_computedWatchers,errors,vee-fields,_provided,$el,_routerViewCache","dataKeys":"","children":1}
-[11:15:59] DONE
