@@ -1,5 +1,0 @@
-[13:01:39] === GO ===
-[13:01:45] ERR: frame.waitForSelector: Target page, context or browser has been closed
-[13:02:57]   LOST
-[13:02:59]   -> 四、企业竞争力问题---复杂系统求解(00:16:
-[13:02:59] ERR: page.evaluate: Target page, context or browser has been closed
